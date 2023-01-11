@@ -1,0 +1,1157 @@
+01:47:41.167 I [/f:161                          ] Access allowance changed from online: 0 stream: 0, sync: 0, persistent conn: 0 to online: 1 stream: 1, sync: 0, persistent conn: 1
+01:47:41.168 I [/f:77                           ] Connectivity policy is initially allow_all
+01:47:41.168 I [/f:79                           ] Connection type is initially unknown
+01:47:41.168 I [/f:96                           ] Enabling all persistent connections
+01:47:41.171 I [/f:145                          ] Login5OAuthClient: Product state changed, force renew.
+01:47:41.174 E [/f:259                          ] WinHttpGetProxyForUrl failed
+01:47:41.189 I [/f:391                          ] Reachability changed from unknown (IP [], roaming false) to unknown (IP [10.5.0.2, 192.168.1.3, fe80::413b:ba6a:5eb:1c00%10, fe80::605f:7a58:2e17:15e5%20], roaming false)
+01:47:41.189 I [/f:192                          ] Scheduling emission of signal.
+01:47:41.189 I [/f:81                           ] GetAdapterConnectionType: windows medium: 19
+01:47:41.190 I [/f:311                          ] connectivityChanged(), is_logged_in:0
+01:47:41.232 I [/f:33                           ] Using Hermes log transport
+01:47:41.232 I [/f:113                          ] Logger is now using a valid transport!
+01:47:41.232 I [/f:113                          ] Logger is now using a valid transport!
+01:47:41.246 E [/f:71                           ] no element found at line 1, column 0
+01:47:41.249 I [/f:474                          ] Local device coordinator enabled write resources & delta updates
+01:47:41.249 I [/f:2312                         ] sync level updated: none -> none. (online: 0 connection_allows_offlining: 1 has_device_token: 0 allow_spotify_tracks: 1)
+01:47:41.249 I [/f:2312                         ] sync level updated: none -> none. (online: 1 connection_allows_offlining: 1 has_device_token: 0 allow_spotify_tracks: 1)
+01:47:41.249 I [/f:136                          ] Device coordinator was set online
+01:47:41.249 I [/f:2312                         ] sync level updated: none -> none. (online: 1 connection_allows_offlining: 0 has_device_token: 0 allow_spotify_tracks: 1)
+01:47:41.250 5 [/f:117                          ] [spotify:user:saamba13:rootlist] Creating context
+01:47:41.253 D [/connect:29                     ] Logging level was changed from 4 to 6
+01:47:41.253 D [/connect:183                    ] connect_ios_mdns_discovery = 0
+01:47:41.253 D [/connect:186                    ] allow_mft_to_mft_transfers = false
+01:47:41.253 D [/connect:189                    ] use_injected_http_dial = false
+01:47:41.253 D [/connect:192                    ] use_injected_http_mdns= false
+01:47:41.253 D [/connect:195                    ] use_ipv6 = false
+01:47:41.253 D [/connect:198                    ] pick_and_shuffle_restricted = false
+01:47:41.253 D [/connect:201                    ] strip_large_play_commands = true
+01:47:41.253 D [/connect:205                    ] mdns_discovery_metrics_enabled = false
+01:47:41.253 D [/connect:209                    ] getinfo_discovery_metrics_enabled = false
+01:47:41.253 D [/connect:211                    ] mdns_retry_count = 1
+01:47:41.253 D [/connect:214                    ] device_capabilities_required = false
+01:47:41.253 D [/connect:216                    ] show_offline_devices_in_core = true
+01:47:41.253 D [/connect:222                    ] show_offline_amazon_devices_as_online = false
+01:47:41.253 D [/connect:224                    ] send_client_logs_to_backend = 0
+01:47:41.253 D [/connect:228                    ] cast_transfer_timeout = 30s
+01:47:41.253 D [/connect_tier1:222              ] Tier1LocalVerificationListener::enableLocalSocket: listening on port 51065
+01:47:41.254 D [/connect_onboarding:401         ] added filter for device type 4 with brand 
+01:47:41.254 D [/connect_onboarding:401         ] added filter for device type 6 with brand 
+01:47:41.254 D [/connect_onboarding:401         ] added filter for device type 8 with brand 
+01:47:41.254 D [/connect_onboarding:401         ] added filter for device type 11 with brand 
+01:47:41.254 D [/connect_onboarding:401         ] added filter for device type 10 with brand 
+01:47:41.254 D [/connect_onboarding:401         ] added filter for device type 9 with brand 
+01:47:41.254 D [/connect_onboarding:401         ] added filter for device type 1 with brand 
+01:47:41.254 D [/connect_onboarding:401         ] added filter for device type 2 with brand 
+01:47:41.254 D [/connect_onboarding:401         ] added filter for device type 3 with brand 
+01:47:41.263 I [/f:46                           ] Track offlining: 0 tracks offlined
+01:47:41.263 I [/connect:275                    ] ConnectManager::start
+01:47:41.264 D [/connect_network:185            ] DeviceCapabilityMap::fetchCapabilities Fetching from DeviceCapabilities
+01:47:41.267 D [/connect:198                    ] system volume changed: system
+01:47:41.270 I [/f:168                          ] Emitting signal.
+01:47:41.270 I [/f:311                          ] connectivityChanged(), is_logged_in:0
+01:47:41.270 D [/connect_tier1:163              ] Tier1LocalVerificationListener::startAccept: error: The I/O operation has been aborted because of either a thread exit or an application request.
+01:47:41.271 D [/connect_tier1:222              ] Tier1LocalVerificationListener::enableLocalSocket: listening on port 51066
+01:47:41.283 D [/connect_dial:1093              ] DialManager::scanDevices
+01:47:41.292 I [/f:73                           ] GetAdapterConnectionType: Couldn't get network adapter type! 0x0
+01:47:41.315 I [/connect:370                    ] Updated connection type from -1 to -1
+01:47:41.320 I [/f:191                          ] Login5OAuthClient::Impl::loadToken: Token not cached, or expired.
+01:47:41.320 I [/f:200                          ] Login5OAuthClient::Impl::loadToken: Loading token from network.
+01:47:41.344 I [/f:191                          ] Login5OAuthClient::Impl::loadToken: Token not cached, or expired.
+01:47:41.344 I [/f:191                          ] Login5OAuthClient::Impl::loadToken: Token not cached, or expired.
+01:47:41.345 W [/f:58                           ] bans: could not read local bans file: C:\Users\Bruce\AppData\Roaming\Spotify\Users\saamba13-user\local_bans.pb
+01:47:41.354 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DWU4EQPjP9ZpS] Creating context
+01:47:41.354 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DWU4EQPjP9ZpS] Creating context
+01:47:41.354 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DWU4EQPjP9ZpS)
+01:47:41.356 I [/f:1050                         ] play next track, close: endplay, start: appload
+01:47:41.356 I [/f:1096                         ] play pending track, close: endplay, start: appload, is error: 0
+01:47:41.356 I [/f:1105                         ] current track: uri: spotify:track:2uAB95gzNi0AWQEyLER6gS, complete: 0, playable: 0
+01:47:41.358 I [/f:958                          ] on player state changed
+01:47:41.362 I [/f:1008                         ] on response, playing: 1, session: 3raebfJI6YPymNqt25fASC, error: The operation completed successfully.
+01:47:41.362 I [/f:191                          ] Login5OAuthClient::Impl::loadToken: Token not cached, or expired.
+01:47:41.363 I [/f:191                          ] Login5OAuthClient::Impl::loadToken: Token not cached, or expired.
+01:47:41.363 I [/f:191                          ] Login5OAuthClient::Impl::loadToken: Token not cached, or expired.
+01:47:41.368 I [/f:1967                         ] Update! reason: initial-update, flags: 0x0f
+01:47:41.368 I [/f:2931                         ] == Offline Report ==
+01:47:41.368 I [/f:2932                         ] change_reason: startup-report
+01:47:41.368 I [/f:2933                         ] num_downloaded_tracks: 0
+01:47:41.368 I [/f:2934                         ] total_num_tracks: 0
+01:47:41.368 I [/f:2935                         ] num_downloaded_episodes: 0
+01:47:41.368 I [/f:2936                         ] total_num_episodes: 0
+01:47:41.368 I [/f:2937                         ] track_limit: 0
+01:47:41.368 I [/f:2938                         ] track_expiry: 2592000
+01:47:41.368 I [/f:2939                         ] episode_limit: 0
+01:47:41.368 I [/f:2940                         ] episode_expiry: 2592000
+01:47:41.368 I [/f:2941                         ] offline_keys: 0
+01:47:41.368 I [/f:2942                         ] cached_keys: 228
+01:47:41.368 I [/f:2943                         ] total_num_links: 0
+01:47:41.368 I [/f:2950                         ] ====================
+01:47:41.378 I [/f:594                          ] aq: on GoOffline[Offline] -> [Offline]
+01:47:41.378 E [/f:576                          ] aq: OnError reason: 3, error:User requested disconnect
+01:47:41.378 I [/f:594                          ] aq: Disconnected
+01:47:41.378 I [/f:594                          ] aq: on GoOffline[Offline] -> [Offline]
+01:47:41.378 E [/f:576                          ] aq: OnError reason: 3, error:User requested disconnect
+01:47:41.378 I [/f:594                          ] aq: Disconnected
+01:47:41.380 I [/f:191                          ] Login5OAuthClient::Impl::loadToken: Token not cached, or expired.
+01:47:41.380 I [/f:191                          ] Login5OAuthClient::Impl::loadToken: Token not cached, or expired.
+01:47:41.380 I [/f:191                          ] Login5OAuthClient::Impl::loadToken: Token not cached, or expired.
+01:47:41.380 I [/f:191                          ] Login5OAuthClient::Impl::loadToken: Token not cached, or expired.
+01:47:41.380 I [/f:191                          ] Login5OAuthClient::Impl::loadToken: Token not cached, or expired.
+01:47:41.393 I [/f:191                          ] Login5OAuthClient::Impl::loadToken: Token not cached, or expired.
+01:47:41.393 I [/f:191                          ] Login5OAuthClient::Impl::loadToken: Token not cached, or expired.
+01:47:41.393 I [/f:186                          ] mdata: 42c42486: Task from `played_state` finished. 0/5 entity URIs requested/needed (100.0% cached). 0/5 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 0 unfinished task(s).
+01:47:41.394 E [/connect:465                    ] ConnectConnectivityListener: received empty connection_id
+
+01:47:41.394 D [/connect:905                    ] Connection lost
+01:47:41.394 E [/connect:465                    ] ConnectConnectivityListener: received empty connection_id
+
+01:47:41.394 D [/connect:905                    ] Connection lost
+01:47:41.397 D [/connect_network:231            ] Searching for devices on the outbound network interface 10.5.0.2 (multicast IPv4 socket)
+01:47:41.397 D [/connect_network:231            ] Searching for devices on the outbound network interface 10.5.0.2 (unicast IPv4 socket)
+01:47:41.397 D [/connect_network:231            ] Searching for devices on the outbound network interface 192.168.1.3 (multicast IPv4 socket)
+01:47:41.397 D [/connect_network:231            ] Searching for devices on the outbound network interface 192.168.1.3 (unicast IPv4 socket)
+01:47:41.403 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DWU4EQPjP9ZpS] Synchronization starting: DIFF (from revision 1667542028,000000008dad1b05e314d544b2b5fbf643315b24) 
+01:47:41.403 5 [/f:548                          ] synchronizeRootlist 'spotify:user:saamba13:rootlist'
+01:47:41.404 5 [/f:117                          ] [spotify:playlist:0vY2BNr5H28bSrwInKTbIi] Creating context
+01:47:41.404 5 [/f:117                          ] [spotify:playlist:736eYsL0gn0zMVHNqjAJ2y] Creating context
+01:47:41.404 5 [/f:117                          ] [spotify:playlist:1QfYLdOGfzkrBp8c8UDjv7] Creating context
+01:47:41.404 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DX1n9whBbBKoL] Creating context
+01:47:41.404 5 [/f:117                          ] [spotify:playlist:0UR5GmncXJTnVzS8DqF2gf] Creating context
+01:47:41.404 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DX3oM43CtKnRV] Creating context
+01:47:41.404 5 [/f:117                          ] [spotify:playlist:2AU2pwsTn0md8Cl4xrRMBf] Creating context
+01:47:41.404 5 [/f:117                          ] [spotify:playlist:12XEAVhLx0xJSfHnnkK0o0] Creating context
+01:47:41.404 5 [/f:117                          ] [spotify:playlist:5a5xrCypx95randlXXAWjj] Creating context
+01:47:41.404 5 [/f:117                          ] [spotify:playlist:7oFshBl51vnCYxd8GW4Mgf] Creating context
+01:47:41.404 5 [/f:117                          ] [spotify:playlist:75ks9tMmVGddacXLHfxmTy] Creating context
+01:47:41.404 5 [/f:117                          ] [spotify:playlist:0uBOsFlfULmBs7bKDUZkKc] Creating context
+01:47:41.404 3 [/f:432                          ] [spotify:user:saamba13:rootlist] Synchronization starting: DIFF (from revision 33,b19a9b9637e2855c35e5357c3e731092d065b20f) 
+01:47:41.406 E [/connect:465                    ] ConnectConnectivityListener: received empty connection_id
+
+01:47:41.406 D [/connect:905                    ] Connection lost
+01:47:41.406 E [/connect:465                    ] ConnectConnectivityListener: received empty connection_id
+
+01:47:41.406 D [/connect:905                    ] Connection lost
+01:47:41.419 I [/f:186                          ] mdata: fc5b57cd: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 62 unfinished task(s).
+01:47:41.419 I [/f:186                          ] mdata: d09bfcdc: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 61 unfinished task(s).
+01:47:41.422 I [/f:191                          ] Login5OAuthClient::Impl::loadToken: Token not cached, or expired.
+01:47:41.422 I [/f:191                          ] Login5OAuthClient::Impl::loadToken: Token not cached, or expired.
+01:47:41.422 I [/f:191                          ] Login5OAuthClient::Impl::loadToken: Token not cached, or expired.
+01:47:41.422 I [/f:1096                         ] play pending track, close: endplay, start: appload, is error: 0
+01:47:41.423 I [/f:1105                         ] current track: uri: spotify:track:2uAB95gzNi0AWQEyLER6gS, complete: 1, playable: 1
+01:47:41.423 I [/f:1133                         ] play current track, reason: appload
+01:47:41.423 I [/f:1138                         ] current track: playable: 1, eligible: 1, uri: spotify:track:2uAB95gzNi0AWQEyLER6gS
+01:47:41.423 I [/f:620                          ] Open playback of track (playback_id 516265618c8e76cfa3be87d1ec840867, parent_playback_id 00000000000000000000000000000000)
+01:47:41.423 I [/f:259                          ]     Creating track player for track (playback_id 516265618c8e76cfa3be87d1ec840867)
+01:47:41.423 I [/f:261                          ]         track_uri: spotify:track:2uAB95gzNi0AWQEyLER6gS
+01:47:41.423 I [/f:263                          ]         ad: no
+01:47:41.423 I [/f:264                          ]         speed: 1.000000
+01:47:41.423 I [/f:265                          ]         normalization: track
+01:47:41.423 I [/f:266                          ]         stream_type: default
+01:47:41.423 I [/f:267                          ]         urgency: paused
+01:47:41.423 I [/f:268                          ]         track_select_flag: 0
+01:47:41.423 I [/f:487                          ] Metadata extensions cache hit
+01:47:41.423 I [/f:278                          ] Created driver (000000000E4E7E20), paused by default
+01:47:41.423 I [/f:102                          ] karaoke: Disabled
+01:47:41.424 D [/connect_network:231            ] Searching for devices on the outbound network interface 10.5.0.2 (multicast IPv4 socket)
+01:47:41.424 D [/connect_network:231            ] Searching for devices on the outbound network interface 192.168.1.3 (multicast IPv4 socket)
+01:47:41.424 D [/connect_network:231            ] Searching for devices on the outbound network interface fe80::413b:ba6a:5eb:1c00%10 (multicast IPv6 socket)
+01:47:41.425 D [/connect_network:231            ] Searching for devices on the outbound network interface fe80::605f:7a58:2e17:15e5%20 (multicast IPv6 socket)
+01:47:41.427 I [/f:296                          ]     Open track player (playback_id 516265618c8e76cfa3be87d1ec840867)
+01:47:41.427 I [/f:297                          ]         position: 78054 ms
+01:47:41.427 I [/f:298                          ]         paused: true
+01:47:41.427 I [/f:299                          ]         transition: none
+01:47:41.427 I [/f:949                          ] spotify::audio_track_player::AudioSessionImpl::getStreamReportingHolderToResumeWith - nothing to resume
+01:47:41.427 I [/f:416                          ] spotify::audio_track_player::AudioSessionImpl::openTrackPlayer - did receive StreamReportingHolder to resume with: FALSE
+01:47:41.427 I [/f:400                          ] Entry (000000000E546470) is buffering
+01:47:41.427 I [/f:347                          ] Created entry (000000000E546470) for player in AudioPlayerQueue
+01:47:41.427 I [/f:348                          ]     stream type: default
+01:47:41.427 I [/f:349                          ]     paused: true
+01:47:41.427 I [/f:350                          ]     transition: none
+01:47:41.427 I [/f:351                          ]     fade in start: -1 ms
+01:47:41.427 I [/f:352                          ]     fade in duration: -1 ms
+01:47:41.427 I [/f:353                          ]     fade out start: -1 ms
+01:47:41.427 I [/f:354                          ]     fade out duration: -1 ms
+01:47:41.427 I [/f:958                          ] on player state changed
+01:47:41.429 I [/f:186                          ] mdata: 7d2780: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 72 unfinished task(s).
+01:47:41.430 I [/f:186                          ] mdata: 4244cb3: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 71 unfinished task(s).
+01:47:41.430 I [/f:186                          ] mdata: 3a69d728: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 70 unfinished task(s).
+01:47:41.430 I [/f:186                          ] mdata: ddcf81cf: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 69 unfinished task(s).
+01:47:41.430 I [/f:186                          ] mdata: c4189d14: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 68 unfinished task(s).
+01:47:41.430 I [/f:186                          ] mdata: 5841f86e: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 67 unfinished task(s).
+01:47:41.430 I [/f:186                          ] mdata: 62175618: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 66 unfinished task(s).
+01:47:41.430 I [/f:186                          ] mdata: a1f5542: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 65 unfinished task(s).
+01:47:41.430 I [/f:186                          ] mdata: 3cad973d: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 64 unfinished task(s).
+01:47:41.430 I [/f:186                          ] mdata: bdc810e8: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 63 unfinished task(s).
+01:47:41.430 I [/f:186                          ] mdata: 745abb83: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 62 unfinished task(s).
+01:47:41.430 I [/f:186                          ] mdata: 15dd80b4: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 61 unfinished task(s).
+01:47:41.435 I [/f:186                          ] mdata: 2d342b3f: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 60 unfinished task(s).
+01:47:41.435 I [/f:186                          ] mdata: f5cfc111: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 59 unfinished task(s).
+01:47:41.435 I [/f:186                          ] mdata: d42c17e4: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 58 unfinished task(s).
+01:47:41.435 I [/f:186                          ] mdata: f8fd0266: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 57 unfinished task(s).
+01:47:41.435 I [/f:186                          ] mdata: 4e271134: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 56 unfinished task(s).
+01:47:41.435 I [/f:186                          ] mdata: 18bdf2e5: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 55 unfinished task(s).
+01:47:41.435 I [/f:186                          ] mdata: 443665ff: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 54 unfinished task(s).
+01:47:41.435 I [/f:186                          ] mdata: 9f795b52: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 53 unfinished task(s).
+01:47:41.435 I [/f:186                          ] mdata: 16b16957: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 52 unfinished task(s).
+01:47:41.435 I [/f:186                          ] mdata: 2b5d6ee0: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 51 unfinished task(s).
+01:47:41.436 I [/f:186                          ] mdata: 64464c2d: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 50 unfinished task(s).
+01:47:41.436 I [/f:186                          ] mdata: 6c8b299c: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 49 unfinished task(s).
+01:47:41.436 I [/f:186                          ] mdata: 7c893bd1: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 48 unfinished task(s).
+01:47:41.436 I [/f:186                          ] mdata: 4cb6a6aa: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 47 unfinished task(s).
+01:47:41.436 I [/f:186                          ] mdata: 9e9b8be2: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 46 unfinished task(s).
+01:47:41.436 I [/f:186                          ] mdata: e218c838: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 45 unfinished task(s).
+01:47:41.436 I [/f:186                          ] mdata: a28b7067: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 44 unfinished task(s).
+01:47:41.436 I [/f:186                          ] mdata: 8fc9850e: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 43 unfinished task(s).
+01:47:41.436 I [/f:186                          ] mdata: c1b50807: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 42 unfinished task(s).
+01:47:41.436 I [/f:186                          ] mdata: cd4eb9a7: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 41 unfinished task(s).
+01:47:41.436 I [/f:186                          ] mdata: c1844656: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 40 unfinished task(s).
+01:47:41.436 I [/f:186                          ] mdata: 516e146: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 39 unfinished task(s).
+01:47:41.436 I [/f:186                          ] mdata: 78612178: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 38 unfinished task(s).
+01:47:41.436 I [/f:186                          ] mdata: 7376f6bd: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 37 unfinished task(s).
+01:47:41.436 I [/f:186                          ] mdata: e073eb4d: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 36 unfinished task(s).
+01:47:41.437 I [/f:186                          ] mdata: 61fdd223: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 35 unfinished task(s).
+01:47:41.437 I [/f:186                          ] mdata: 2fabd636: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 34 unfinished task(s).
+01:47:41.437 I [/f:186                          ] mdata: 6d6b5401: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 33 unfinished task(s).
+01:47:41.437 I [/f:186                          ] mdata: 6dbd5390: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 32 unfinished task(s).
+01:47:41.437 I [/f:186                          ] mdata: 2bd88251: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 31 unfinished task(s).
+01:47:41.437 I [/f:186                          ] mdata: 3709b240: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 30 unfinished task(s).
+01:47:41.437 I [/f:186                          ] mdata: f9cc3cd1: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 29 unfinished task(s).
+01:47:41.437 I [/f:186                          ] mdata: fa6c18dc: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 28 unfinished task(s).
+01:47:41.437 I [/f:186                          ] mdata: e9214bab: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 27 unfinished task(s).
+01:47:41.437 I [/f:186                          ] mdata: 6a762fbd: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 26 unfinished task(s).
+01:47:41.437 I [/f:186                          ] mdata: 82bb55f2: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 25 unfinished task(s).
+01:47:41.437 I [/f:186                          ] mdata: 5b90abe4: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 24 unfinished task(s).
+01:47:41.437 I [/f:186                          ] mdata: e6534ee: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 23 unfinished task(s).
+01:47:41.437 I [/f:186                          ] mdata: 4638d4da: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 22 unfinished task(s).
+01:47:41.437 I [/f:186                          ] mdata: 90922662: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 21 unfinished task(s).
+01:47:41.437 I [/f:186                          ] mdata: 101fc56e: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 20 unfinished task(s).
+01:47:41.438 I [/f:186                          ] mdata: f0eba77d: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 19 unfinished task(s).
+01:47:41.438 I [/f:186                          ] mdata: 7dba6cfa: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 18 unfinished task(s).
+01:47:41.438 I [/f:186                          ] mdata: a83720e7: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 17 unfinished task(s).
+01:47:41.438 I [/f:186                          ] mdata: 3a0da4b2: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 16 unfinished task(s).
+01:47:41.438 I [/f:186                          ] mdata: 9da852fa: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 15 unfinished task(s).
+01:47:41.438 I [/f:186                          ] mdata: 56e01c2a: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 14 unfinished task(s).
+01:47:41.438 I [/f:186                          ] mdata: ef09cce8: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 13 unfinished task(s).
+01:47:41.439 I [/f:186                          ] mdata: 2651e1a9: Task from `prefetch` finished. 0/50 entity URIs requested/needed (100.0% cached). 0/50 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 12 unfinished task(s).
+01:47:41.439 I [/f:186                          ] mdata: 9ac452de: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 11 unfinished task(s).
+01:47:41.447 I [/f:186                          ] mdata: 558b547c: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 10 unfinished task(s).
+01:47:41.447 I [/f:186                          ] mdata: 87495d0e: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 9 unfinished task(s).
+01:47:41.447 I [/f:186                          ] mdata: 39639cd6: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 8 unfinished task(s).
+01:47:41.447 I [/f:186                          ] mdata: f3a94fba: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 7 unfinished task(s).
+01:47:41.447 I [/f:186                          ] mdata: a6ca06ea: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 6 unfinished task(s).
+01:47:41.447 I [/f:186                          ] mdata: 8197fa6a: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 5 unfinished task(s).
+01:47:41.448 I [/f:186                          ] mdata: 9d8c7e9d: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 4 unfinished task(s).
+01:47:41.448 I [/f:186                          ] mdata: 9aff49d8: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 3 unfinished task(s).
+01:47:41.448 I [/f:186                          ] mdata: bdeeb585: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 2 unfinished task(s).
+01:47:41.448 I [/f:186                          ] mdata: 5f9781e1: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 1 unfinished task(s).
+01:47:41.449 I [/f:263                          ] Prefetch: looks like new context - resetting window size to 1
+01:47:41.449 I [/f:186                          ] mdata: e243f3fa: Task from `prefetch` finished. 0/50 entity URIs requested/needed (100.0% cached). 0/50 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 0 unfinished task(s).
+01:47:41.459 I [/f:460                          ] High request latency: https://apresolve.spotify.com/ took 187 ms
+01:47:41.461 I [/f:504                          ] Connecting to AP ap-gue1.spotify.com:4070
+01:47:41.485 I [/f:59                           ] Resolved ap-gue1.spotify.com to 34.158.253.218
+01:47:41.530 I [/f:137                          ] Connected to AP: 34.158.253.218:4070
+01:47:41.562 I [/f:460                          ] High request latency: https://login5.spotify.com/v3 took 155 ms
+01:47:41.563 I [/f:218                          ] Login5OAuthClient::Impl::loadTokenFromNetwork: Got Login5 reply.
+01:47:41.563 I [/f:257                          ] Login5OAuthClient: Successful authentication
+01:47:41.572 5 [/f:117                          ] [spotify:playlist:37i9dQZF1EVHGWrwldPRtj] Creating context
+01:47:41.572 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1EVHGWrwldPRtj)
+01:47:41.572 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DXdLEN7aqioXM] Creating context
+01:47:41.572 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DXdLEN7aqioXM)
+01:47:41.573 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DWXLeA8Omikj7] Creating context
+01:47:41.573 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DWXLeA8Omikj7)
+01:47:41.573 I [/f:186                          ] mdata: a6f76f8: Task from `unknown` finished. 0/0 entity URIs requested/needed (0.0% cached). 0/0 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 0 unfinished task(s).
+01:47:41.574 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DWXLeA8Omikj7] Synchronization starting: DIFF (from revision 1662710918,0000000077242cf59991503d620a313cea71c6ba) 
+01:47:41.574 3 [/f:432                          ] [spotify:playlist:37i9dQZF1EVHGWrwldPRtj] Synchronization starting: DIFF (from revision 1673330400,00000000a7bb3196fa9d61ccffdc3858d4bfd2a1) 
+01:47:41.576 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DXdLEN7aqioXM] Synchronization starting: DIFF (from revision 1672981260,00000000263ae18c6335318af842c9ca15a7b4d3) 
+01:47:41.644 I [/f:309                          ] AP login welcome, len 241
+01:47:41.644 I [/f:987                          ] Logging connection info message, current ap: ap-gue1.spotify.com:4070
+01:47:41.644 I [/f:340                          ] AP login complete, len 0
+01:47:41.656 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DWU4EQPjP9ZpS] 'DIFF' request complete
+01:47:41.656 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DWU4EQPjP9ZpS] Delta-updated to revision 1667542028,000000008dad1b05e314d544b2b5fbf643315b24 (no new changes)
+01:47:41.657 W [/social_listening:189           ] Request to social-connect failed, client error=0, server status=404
+01:47:41.659 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DWXLeA8Omikj7] 'DIFF' request complete
+01:47:41.659 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DWXLeA8Omikj7] Delta-updated to revision 1662710918,0000000077242cf59991503d620a313cea71c6ba (no new changes)
+01:47:41.671 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DXdLEN7aqioXM] 'DIFF' request complete
+01:47:41.671 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DXdLEN7aqioXM] Delta-updated to revision 1672981260,00000000263ae18c6335318af842c9ca15a7b4d3 (no new changes)
+01:47:41.672 5 [/f:274                          ] [spotify:playlist:37i9dQZF1EVHGWrwldPRtj] 'DIFF' request complete
+01:47:41.672 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1EVHGWrwldPRtj] Delta-updated to revision 1673330400,00000000a7bb3196fa9d61ccffdc3858d4bfd2a1 (no new changes)
+01:47:41.684 5 [/f:274                          ] [spotify:user:saamba13:rootlist] 'DIFF' request complete
+01:47:41.684 3 [/f:1112                         ] [spotify:user:saamba13:rootlist] Delta-updated to revision 33,b19a9b9637e2855c35e5357c3e731092d065b20f (no new changes)
+01:47:41.727 I [/f:136                          ] Device coordinator was set online
+01:47:41.727 5 [/f:548                          ] synchronizeRootlist 'spotify:user:saamba13:rootlist'
+01:47:41.870 I [/f:186                          ] mdata: 31118e0b: Task from `profile` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 0 unfinished task(s).
+01:47:41.904 I [/f:186                          ] mdata: 7fec8571: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 31 unfinished task(s).
+01:47:41.904 I [/f:186                          ] mdata: f62aafd3: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 30 unfinished task(s).
+01:47:41.904 I [/f:186                          ] mdata: 55ac7138: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 29 unfinished task(s).
+01:47:41.904 I [/f:186                          ] mdata: 369b0f32: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 28 unfinished task(s).
+01:47:41.904 I [/f:186                          ] mdata: 562a0d50: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 27 unfinished task(s).
+01:47:41.904 I [/f:186                          ] mdata: c4c0b17: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 26 unfinished task(s).
+01:47:41.904 I [/f:186                          ] mdata: f0c6db45: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 25 unfinished task(s).
+01:47:41.904 I [/f:186                          ] mdata: c8c2c231: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 24 unfinished task(s).
+01:47:41.904 I [/f:186                          ] mdata: e707ed4c: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 23 unfinished task(s).
+01:47:41.904 I [/f:186                          ] mdata: 8137714a: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 22 unfinished task(s).
+01:47:41.904 I [/f:186                          ] mdata: 852e6b39: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 21 unfinished task(s).
+01:47:41.904 I [/f:186                          ] mdata: dba6e308: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 20 unfinished task(s).
+01:47:41.904 I [/f:186                          ] mdata: e78ad4c7: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 19 unfinished task(s).
+01:47:41.905 I [/f:186                          ] mdata: 736462ee: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 18 unfinished task(s).
+01:47:41.905 I [/f:186                          ] mdata: 34728e67: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 17 unfinished task(s).
+01:47:41.905 I [/f:186                          ] mdata: 874eeff3: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 16 unfinished task(s).
+01:47:41.905 I [/f:186                          ] mdata: 7fa80cda: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 15 unfinished task(s).
+01:47:41.905 I [/f:186                          ] mdata: 9ae9da51: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 14 unfinished task(s).
+01:47:41.905 I [/f:186                          ] mdata: 854893c4: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 13 unfinished task(s).
+01:47:41.905 I [/f:186                          ] mdata: e710098: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 12 unfinished task(s).
+01:47:41.905 I [/f:186                          ] mdata: a08624c0: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 11 unfinished task(s).
+01:47:41.905 I [/f:186                          ] mdata: 3e657112: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 10 unfinished task(s).
+01:47:41.905 I [/f:186                          ] mdata: 7213b6ac: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 9 unfinished task(s).
+01:47:41.905 I [/f:186                          ] mdata: 90147f18: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 8 unfinished task(s).
+01:47:41.905 I [/f:186                          ] mdata: 3b2144c2: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 7 unfinished task(s).
+01:47:41.905 I [/f:186                          ] mdata: 4b69c8d1: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 6 unfinished task(s).
+01:47:41.905 I [/f:186                          ] mdata: dc74a49e: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 5 unfinished task(s).
+01:47:41.905 I [/f:186                          ] mdata: 61ecf8a7: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 4 unfinished task(s).
+01:47:41.905 I [/f:186                          ] mdata: 25d20fd8: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 3 unfinished task(s).
+01:47:41.906 I [/f:186                          ] mdata: e80fbace: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 2 unfinished task(s).
+01:47:41.906 I [/f:186                          ] mdata: ca590048: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 1 unfinished task(s).
+01:47:41.906 I [/f:186                          ] mdata: f7177a96: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 0 unfinished task(s).
+01:47:41.917 D [/connect_dial:1093              ] DialManager::scanDevices
+01:47:41.932 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/clientsettings took 369 ms
+01:47:41.939 I [/f:186                          ] mdata: c255c77b: Task from `profile` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 0 unfinished task(s).
+01:47:42.056 I [/f:152                          ] Current score: DOWNLOADED: 0 (0), WRITABLE: 1 (0), UNPLAYED: 2 (0), IN_PROGRESS: 3 (0), BY_SPOTIFY: 4 (0), BY_YOU: 5 (0), ARTIST: 61 (0), ALBUM: 117 (0), BOOK: 206 (0), SHOW: 405 (0), PLAYLIST: 406 (0), 
+01:47:42.058 I [/f:186                          ] mdata: baa6dff6: Task from `playlist` finished. -1/-1 entity URIs requested/needed (-0.0% cached). -1/-1 extensions requested/needed (100.0% w/ ETags, -0.0% cached). 0 unfinished task(s).
+01:47:42.071 I [/f:424                          ] usable_state: process_start:0,app_init:24,win_cef_initialized:95,win_os_inits:96,win_bs_built:99,core_init:99,core_init_done:162,initial_ap_connection:165,zlink_load_start:266,initial_ap_connection_done:720,usable_state:1064
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:37i9dQZF1EVHGWrwldPRtj] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1EVHGWrwldPRtj)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DXdLEN7aqioXM] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DXdLEN7aqioXM)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DWXLeA8Omikj7] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DWXLeA8Omikj7)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DX5D4gDh3HAsM] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DX5D4gDh3HAsM)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:2VYj3RqzeYFLP8oBst8aEe] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:2VYj3RqzeYFLP8oBst8aEe)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DWVtmGxs4S4N7] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DWVtmGxs4S4N7)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DWT1R6bXL4dyW] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DWT1R6bXL4dyW)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:09KEYDIc5hVi7JsmVRKKp3] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:09KEYDIc5hVi7JsmVRKKp3)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DZ06evO3TFPH2] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DZ06evO3TFPH2)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DX6R7QUWePReA] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DX6R7QUWePReA)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:5WMARU1HUikOUx2r5Aatma] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:5WMARU1HUikOUx2r5Aatma)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DZ06evO19s0CZ] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DZ06evO19s0CZ)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DX0zmsulfyDdq] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DX0zmsulfyDdq)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DX5pOp62IUR81] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DX5pOp62IUR81)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DXbkKnGZHv1kf] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DXbkKnGZHv1kf)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:0sAAYyQQemt7UD1rbICQJo] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:0sAAYyQQemt7UD1rbICQJo)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:37i9dQZF1EIWr46BUxUX9a] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1EIWr46BUxUX9a)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DXafCT9DHTijq] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DXafCT9DHTijq)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:37i9dQZF1DWYa1w6FMMTnG] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DWYa1w6FMMTnG)
+01:47:43.177 5 [/f:117                          ] [spotify:playlist:4o4bjbuHATl1FidsHwdUIm] Creating context
+01:47:43.177 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:4o4bjbuHATl1FidsHwdUIm)
+01:47:43.178 I [/f:186                          ] mdata: 9826a58b: Task from `recently_played` finished. 0/2 entity URIs requested/needed (100.0% cached). 0/2 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 1 unfinished task(s).
+01:47:43.179 I [/f:186                          ] mdata: d670fc57: Task from `recently_played` finished. 0/26 entity URIs requested/needed (100.0% cached). 0/26 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 0 unfinished task(s).
+01:47:43.181 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1EVHGWrwldPRtj)
+01:47:43.181 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DXdLEN7aqioXM)
+01:47:43.181 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DWXLeA8Omikj7)
+01:47:43.181 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DX5D4gDh3HAsM)
+01:47:43.181 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:2VYj3RqzeYFLP8oBst8aEe)
+01:47:43.181 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DWVtmGxs4S4N7)
+01:47:43.181 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DWT1R6bXL4dyW)
+01:47:43.181 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:09KEYDIc5hVi7JsmVRKKp3)
+01:47:43.181 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DZ06evO3TFPH2)
+01:47:43.181 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DX6R7QUWePReA)
+01:47:43.181 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:5WMARU1HUikOUx2r5Aatma)
+01:47:43.181 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DZ06evO19s0CZ)
+01:47:43.181 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DX0zmsulfyDdq)
+01:47:43.181 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DX5pOp62IUR81)
+01:47:43.181 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DXbkKnGZHv1kf)
+01:47:43.182 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:0sAAYyQQemt7UD1rbICQJo)
+01:47:43.182 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1EIWr46BUxUX9a)
+01:47:43.182 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DXafCT9DHTijq)
+01:47:43.182 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1DWYa1w6FMMTnG)
+01:47:43.182 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:4o4bjbuHATl1FidsHwdUIm)
+01:47:43.182 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DXafCT9DHTijq] Synchronization starting: DIFF (from revision 1666261343,000000003aad724d121aa2e4eb18c75c7c55cc6a) 
+01:47:43.183 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DX6R7QUWePReA] Synchronization starting: DIFF (from revision 1671985563,00000000db5d5c33e6eb6cc9ec942b883cf0f0a6) 
+01:47:43.183 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DZ06evO19s0CZ] Synchronization starting: DIFF (from revision 27889823,0000000099d56db2a5f9401abad66e4066e9df2c) 
+01:47:43.183 3 [/f:432                          ] [spotify:playlist:37i9dQZF1EVHGWrwldPRtj] Synchronization starting: DIFF (from revision 1673330400,00000000a7bb3196fa9d61ccffdc3858d4bfd2a1) 
+01:47:43.184 3 [/f:432                          ] [spotify:playlist:5WMARU1HUikOUx2r5Aatma] Synchronization starting: DIFF (from revision 17,57b9aea425096d5d0bbb07089ad84e0e2a9b6400) 
+01:47:43.195 I [/f:186                          ] mdata: 8af86ad: Task from `recently_played` finished. 0/2 entity URIs requested/needed (100.0% cached). 0/2 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 1 unfinished task(s).
+01:47:43.196 I [/f:186                          ] mdata: cf411a21: Task from `recently_played` finished. 0/26 entity URIs requested/needed (100.0% cached). 0/26 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 0 unfinished task(s).
+01:47:43.199 I [/f:186                          ] mdata: aaac9704: Task from `recently_played` finished. 0/2 entity URIs requested/needed (100.0% cached). 0/2 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 1 unfinished task(s).
+01:47:43.200 I [/f:186                          ] mdata: 36230202: Task from `recently_played` finished. 0/26 entity URIs requested/needed (100.0% cached). 0/26 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 0 unfinished task(s).
+01:47:43.249 5 [/f:274                          ] [spotify:playlist:37i9dQZF1EVHGWrwldPRtj] 'DIFF' request complete
+01:47:43.249 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1EVHGWrwldPRtj] Delta-updated to revision 1673330400,00000000a7bb3196fa9d61ccffdc3858d4bfd2a1 (no new changes)
+01:47:43.259 5 [/f:274                          ] [spotify:playlist:5WMARU1HUikOUx2r5Aatma] 'DIFF' request complete
+01:47:43.259 3 [/f:1112                         ] [spotify:playlist:5WMARU1HUikOUx2r5Aatma] Delta-updated to revision 17,57b9aea425096d5d0bbb07089ad84e0e2a9b6400 (no new changes)
+01:47:43.275 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DX6R7QUWePReA] 'DIFF' request complete
+01:47:43.275 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DX6R7QUWePReA] Delta-updated to revision 1671985563,00000000db5d5c33e6eb6cc9ec942b883cf0f0a6 (no new changes)
+01:47:43.278 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DXafCT9DHTijq] 'DIFF' request complete
+01:47:43.278 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DXafCT9DHTijq] Delta-updated to revision 1666261343,000000003aad724d121aa2e4eb18c75c7c55cc6a (no new changes)
+01:47:43.284 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DXdLEN7aqioXM] Synchronization starting: DIFF (from revision 1672981260,00000000263ae18c6335318af842c9ca15a7b4d3) 
+01:47:43.290 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DZ06evO19s0CZ] 'DIFF' request complete
+01:47:43.290 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DZ06evO19s0CZ] Delta-updated to revision 27889823,0000000099d56db2a5f9401abad66e4066e9df2c (no new changes)
+01:47:43.309 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DXafCT9DHTijq] Synchronization starting: DIFF (from revision 1666261343,000000003aad724d121aa2e4eb18c75c7c55cc6a) 
+01:47:43.309 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DWXLeA8Omikj7] Synchronization starting: DIFF (from revision 1662710918,0000000077242cf59991503d620a313cea71c6ba) 
+01:47:43.347 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DXdLEN7aqioXM] 'DIFF' request complete
+01:47:43.347 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DXdLEN7aqioXM] Delta-updated to revision 1672981260,00000000263ae18c6335318af842c9ca15a7b4d3 (no new changes)
+01:47:43.372 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DX5D4gDh3HAsM] Synchronization starting: DIFF (from revision 1669957260,00000000a3839196bdd4a77405afd03c0fe7f2cb) 
+01:47:43.378 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DXafCT9DHTijq] 'DIFF' request complete
+01:47:43.379 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DXafCT9DHTijq] Delta-updated to revision 1666261343,000000003aad724d121aa2e4eb18c75c7c55cc6a (no new changes)
+01:47:43.379 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DWXLeA8Omikj7] 'DIFF' request complete
+01:47:43.379 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DWXLeA8Omikj7] Delta-updated to revision 1662710918,0000000077242cf59991503d620a313cea71c6ba (no new changes)
+01:47:43.403 3 [/f:432                          ] [spotify:playlist:2VYj3RqzeYFLP8oBst8aEe] Synchronization starting: DIFF (from revision 17,41d86a10c88cc4ceb5c875f86dcd3360ca529e43) 
+01:47:43.403 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DWVtmGxs4S4N7] Synchronization starting: DIFF (from revision 1673371977,000000004f3a9950a787328dca0aa4cd5d825d62) 
+01:47:43.445 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DX5D4gDh3HAsM] 'DIFF' request complete
+01:47:43.445 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DX5D4gDh3HAsM] Delta-updated to revision 1669957260,00000000a3839196bdd4a77405afd03c0fe7f2cb (no new changes)
+01:47:43.461 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DWVtmGxs4S4N7] 'DIFF' request complete
+01:47:43.461 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DWVtmGxs4S4N7] Delta-updated to revision 1673371977,000000004f3a9950a787328dca0aa4cd5d825d62 (no new changes)
+01:47:43.463 5 [/f:274                          ] [spotify:playlist:2VYj3RqzeYFLP8oBst8aEe] 'DIFF' request complete
+01:47:43.463 3 [/f:1112                         ] [spotify:playlist:2VYj3RqzeYFLP8oBst8aEe] Delta-updated to revision 17,41d86a10c88cc4ceb5c875f86dcd3360ca529e43 (no new changes)
+01:47:43.465 3 [/f:432                          ] [spotify:playlist:09KEYDIc5hVi7JsmVRKKp3] Synchronization starting: DIFF (from revision 170,b766019e5e4c58839804f876ee60e8d4df26ae05) 
+01:47:43.494 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DWT1R6bXL4dyW] Synchronization starting: DIFF (from revision 1661349209,000000002c7479c9d9e96aaf13203b53bead25d0) 
+01:47:43.494 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DZ06evO3TFPH2] Synchronization starting: DIFF (from revision 27889823,000000005db14acceccf741befd40ca9192c2aa3) 
+01:47:43.527 5 [/f:274                          ] [spotify:playlist:09KEYDIc5hVi7JsmVRKKp3] 'DIFF' request complete
+01:47:43.527 3 [/f:1112                         ] [spotify:playlist:09KEYDIc5hVi7JsmVRKKp3] Delta-updated to revision 170,b766019e5e4c58839804f876ee60e8d4df26ae05 (no new changes)
+01:47:43.547 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DX0zmsulfyDdq] Synchronization starting: DIFF (from revision 1672754741,00000000cc8be2f34d599ec9649244e251dd8611) 
+01:47:43.547 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DWT1R6bXL4dyW] 'DIFF' request complete
+01:47:43.547 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DWT1R6bXL4dyW] Delta-updated to revision 1661349209,000000002c7479c9d9e96aaf13203b53bead25d0 (no new changes)
+01:47:43.571 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DX5pOp62IUR81] Synchronization starting: DIFF (from revision 1670625179,000000001da782947e4373d4e144d79dc89cd567) 
+01:47:43.581 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DZ06evO3TFPH2] 'DIFF' request complete
+01:47:43.582 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DZ06evO3TFPH2] Delta-updated to revision 27889823,000000005db14acceccf741befd40ca9192c2aa3 (no new changes)
+01:47:43.602 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DXbkKnGZHv1kf] Synchronization starting: DIFF (from revision 1635467602,00000000717ddb62ec1f268a764e1fada3233140) 
+01:47:43.622 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DX0zmsulfyDdq] 'DIFF' request complete
+01:47:43.622 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DX0zmsulfyDdq] Delta-updated to revision 1672754741,00000000cc8be2f34d599ec9649244e251dd8611 (no new changes)
+01:47:43.625 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DX5pOp62IUR81] 'DIFF' request complete
+01:47:43.625 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DX5pOp62IUR81] Delta-updated to revision 1670625179,000000001da782947e4373d4e144d79dc89cd567 (no new changes)
+01:47:43.647 3 [/f:432                          ] [spotify:playlist:0sAAYyQQemt7UD1rbICQJo] Synchronization starting: DIFF (from revision 992,baaaa27d41d3f897da1f97d7fbcbcea37a238186) 
+01:47:43.647 3 [/f:432                          ] [spotify:playlist:37i9dQZF1EIWr46BUxUX9a] Synchronization starting: DIFF (from revision 1673401614,00000000541381342e0704d56e811743c4b05b69) 
+01:47:43.660 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DXbkKnGZHv1kf] 'DIFF' request complete
+01:47:43.660 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DXbkKnGZHv1kf] Delta-updated to revision 1635467602,00000000717ddb62ec1f268a764e1fada3233140 (no new changes)
+01:47:43.694 3 [/f:432                          ] [spotify:playlist:37i9dQZF1DWYa1w6FMMTnG] Synchronization starting: DIFF (from revision 1665128319,00000000553556392a3d6aadb7b8d2ec0bb850a9) 
+01:47:43.717 5 [/f:274                          ] [spotify:playlist:0sAAYyQQemt7UD1rbICQJo] 'DIFF' request complete
+01:47:43.717 3 [/f:1112                         ] [spotify:playlist:0sAAYyQQemt7UD1rbICQJo] Delta-updated to revision 992,baaaa27d41d3f897da1f97d7fbcbcea37a238186 (no new changes)
+01:47:43.725 5 [/f:274                          ] [spotify:playlist:37i9dQZF1EIWr46BUxUX9a] 'DIFF' request complete
+01:47:43.725 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1EIWr46BUxUX9a] Delta-updated to revision 1673401614,00000000541381342e0704d56e811743c4b05b69 (no new changes)
+01:47:43.740 3 [/f:432                          ] [spotify:playlist:4o4bjbuHATl1FidsHwdUIm] Synchronization starting: DIFF (from revision 255,64f6b9eae70311c7f69c79533891c6298a5e5e29) 
+01:47:43.758 5 [/f:274                          ] [spotify:playlist:37i9dQZF1DWYa1w6FMMTnG] 'DIFF' request complete
+01:47:43.758 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1DWYa1w6FMMTnG] Delta-updated to revision 1665128319,00000000553556392a3d6aadb7b8d2ec0bb850a9 (no new changes)
+01:47:43.804 5 [/f:274                          ] [spotify:playlist:4o4bjbuHATl1FidsHwdUIm] 'DIFF' request complete
+01:47:43.804 3 [/f:1112                         ] [spotify:playlist:4o4bjbuHATl1FidsHwdUIm] Delta-updated to revision 255,64f6b9eae70311c7f69c79533891c6298a5e5e29 (no new changes)
+01:47:51.279 I [/f:981                          ] Enumerated files in cache. Permanent: keep 14 files, 94347 bytes; remove 2 files, 19515 bytes. Volatile: keep 667 files, 1017356235 bytes; remove 2 files, 40722 bytes.
+01:47:51.282 I [/f:713                          ] Deleted 4 files from storage. Time spent: 0 ms. (files that was scheduled for delayed wipe)
+01:47:51.282 I [/f:715                          ]        3 in pl4 realm
+01:47:51.282 I [/f:719                          ]        1 in unknown realm
+01:47:51.282 I [/f:2785                         ] Storage has been cleaned
+01:47:51.350 I [/f:301                          ] Found 0 collection items out of 45 checked that need to be indexed (0ms).
+01:47:51.350 I [/f:303                          ] Completed a full check of the collection index.
+01:47:51.350 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:47:51.350 I [/f:303                          ] Completed a full check of the collection index.
+01:47:51.365 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:47:51.365 I [/f:303                          ] Completed a full check of the collection index.
+01:47:56.190 5 [/f:117                          ] [spotify:playlist:37i9dQZF1EQpj7X7UK8OOF] Creating context
+01:47:56.190 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1EQpj7X7UK8OOF)
+01:47:56.195 I [/f:323                          ] prepare play, context uri: spotify:playlist:37i9dQZF1EQpj7X7UK8OOF, url: context://spotify:playlist:37i9dQZF1EQpj7X7UK8OOF
+01:47:56.195 I [/f:296                          ] == play command ==
+01:47:56.195 I [/f:298                          ] ctx: uri: spotify:playlist:37i9dQZF1EQpj7X7UK8OOF, url: context://spotify:playlist:37i9dQZF1EQpj7X7UK8OOF, hp: 1
+01:47:56.195 I [/f:315                          ] is system: 0
+01:47:56.195 I [/f:316                          ] is paused: 0
+01:47:56.195 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:37i9dQZF1EQpj7X7UK8OOF)
+01:47:56.197 I [/f:338                          ] prepared session id: 3ZEVeZ0lu2Dyg4aah45H4i
+01:47:56.197 I [/f:374                          ] play, session_id: 3ZEVeZ0lu2Dyg4aah45H4i
+01:47:56.210 I [/f:1008                         ] on response, playing: 1, session: 3raebfJI6YPymNqt25fASC, error: The operation completed successfully.
+01:47:56.211 I [/f:273                          ] advance()
+01:47:56.211 I [/f:673                          ] Close track (playback_id 516265618c8e76cfa3be87d1ec840867)
+01:47:56.211 I [/f:674                          ]     source_end: unknown
+01:47:56.211 I [/f:675                          ]     reason_end: endplay
+01:47:56.211 I [/f:676                          ]     resumable_session: false
+01:47:56.211 I [/f:1050                         ] play next track, close: endplay, start: playbtn
+01:47:56.211 I [/f:1096                         ] play pending track, close: endplay, start: playbtn, is error: 0
+01:47:56.211 I [/f:1029                         ] player->advance()
+01:47:56.211 I [/f:958                          ] on player state changed
+01:47:56.212 I [/f:263                          ] Prefetch: looks like new context - resetting window size to 1
+01:47:56.214 D [/connect_onboarding:261         ] Onboarding::evaluateOnboarding bailing, local=0, track=0, within=1
+01:47:56.233 I [/f:1008                         ] on response, playing: 1, session: 3ZEVeZ0lu2Dyg4aah45H4i, error: The operation completed successfully.
+01:47:56.233 I [/f:932                          ] player->advance()
+01:47:56.233 I [/f:443                          ] switching player and calling start()
+01:47:56.233 I [/f:1050                         ] play next track, close: endplay, start: playbtn
+01:47:56.234 I [/f:1096                         ] play pending track, close: endplay, start: playbtn, is error: 0
+01:47:56.234 I [/f:1105                         ] current track: uri: spotify:track:7gSQv1OHpkIoAdUiRLdmI6, complete: 1, playable: 1
+01:47:56.234 I [/f:1133                         ] play current track, reason: playbtn
+01:47:56.234 I [/f:1138                         ] current track: playable: 1, eligible: 1, uri: spotify:track:7gSQv1OHpkIoAdUiRLdmI6
+01:47:56.234 I [/f:620                          ] Open playback of track (playback_id b65576820c33947290c14a41b95e2118, parent_playback_id 00000000000000000000000000000000)
+01:47:56.234 I [/f:259                          ]     Creating track player for track (playback_id b65576820c33947290c14a41b95e2118)
+01:47:56.234 I [/f:261                          ]         track_uri: spotify:track:7gSQv1OHpkIoAdUiRLdmI6
+01:47:56.234 I [/f:263                          ]         ad: no
+01:47:56.234 I [/f:264                          ]         speed: 1.000000
+01:47:56.234 I [/f:265                          ]         normalization: track
+01:47:56.234 I [/f:266                          ]         stream_type: default
+01:47:56.234 I [/f:267                          ]         urgency: now
+01:47:56.234 I [/f:268                          ]         track_select_flag: 0
+01:47:56.234 I [/f:487                          ] Metadata extensions cache hit
+01:47:56.234 I [/f:102                          ] karaoke: Disabled
+01:47:56.241 I [/f:296                          ]     Open track player (playback_id b65576820c33947290c14a41b95e2118)
+01:47:56.241 I [/f:297                          ]         position: 0 ms
+01:47:56.241 I [/f:298                          ]         paused: false
+01:47:56.241 I [/f:299                          ]         transition: none
+01:47:56.242 I [/f:949                          ] spotify::audio_track_player::AudioSessionImpl::getStreamReportingHolderToResumeWith - nothing to resume
+01:47:56.242 I [/f:416                          ] spotify::audio_track_player::AudioSessionImpl::openTrackPlayer - did receive StreamReportingHolder to resume with: FALSE
+01:47:56.242 I [/f:400                          ] Entry (000000000E443DD0) is buffering
+01:47:56.242 I [/f:347                          ] Created entry (000000000E443DD0) for player in AudioPlayerQueue
+01:47:56.242 I [/f:348                          ]     stream type: default
+01:47:56.242 I [/f:349                          ]     paused: false
+01:47:56.242 I [/f:350                          ]     transition: none
+01:47:56.242 I [/f:351                          ]     fade in start: -1 ms
+01:47:56.242 I [/f:352                          ]     fade in duration: -1 ms
+01:47:56.242 I [/f:353                          ]     fade out start: -1 ms
+01:47:56.242 I [/f:354                          ]     fade out duration: -1 ms
+01:47:56.242 I [/f:970                          ] Unpause driver (000000000E4E7E20)
+01:47:56.242 I [/f:790                          ] Opening driver (000000000E4E7E20)
+01:47:56.242 I [/f:791                          ]     sample rate: 44100 Hz
+01:47:56.242 I [/f:792                          ]     channels: 2
+01:47:56.242 I [/f:793                          ]     sample format: 32-bit-float-pcm
+01:47:56.243 I [/f:794                          ]     stream type: default
+01:47:56.243 I [/f:795                          ]     audio content type: music
+01:47:56.243 I [/f:796                          ]     paused: false
+01:47:56.243 I [/f:286                          ] Opening sink for playback.
+01:47:56.243 I [/f:287                          ]     codec: vorbis
+01:47:56.243 I [/f:288                          ]     bitrate: 160000 bits/s
+01:47:56.243 I [/f:289                          ]     sample rate: 44100 Hz
+01:47:56.243 I [/f:290                          ]     channels: 2
+01:47:56.243 I [/f:291                          ]     sample format: 32-bit-float-pcm
+01:47:56.243 I [/f:297                          ]     duration: 178360 ms
+01:47:56.244 I [/f:613                          ] Starting playback.
+01:47:56.244 I [/f:615                          ]     min limit 4000 ms.
+01:47:56.244 I [/f:616                          ]     compressed buffer: 62290 bytes
+01:47:56.244 I [/f:618                          ]     decompressed buffer: 0 ms
+01:47:56.244 I [/f:620                          ]     sink buffer: 1021 ms
+01:47:56.244 I [/f:621                          ]     final source buffer: false
+01:47:56.246 I [/f:400                          ] Entry (000000000E443DD0) is not buffering
+01:47:56.248 I [/f:468                          ] Playing music set to 'true'
+01:47:56.248 I [/f:192                          ] Scheduling emission of signal.
+01:47:56.249 I [/f:958                          ] on player state changed
+01:47:56.269 3 [/f:432                          ] [spotify:playlist:37i9dQZF1EQpj7X7UK8OOF] Synchronization starting: DIFF (from revision 1673071200,000000000567b15b56f14e55dbf62282008d96b4) 
+01:47:56.314 I [/f:1128                         ] Encrypted data 64k-latency: 3 ms. Play latency: 78 ms
+01:47:56.314 I [/f:168                          ] Emitting signal.
+01:47:56.314 I [/connect:370                    ] Updated connection type from -1 to -1
+01:47:56.316 I [/f:958                          ] on player state changed
+01:47:56.329 I [/f:186                          ] mdata: e22ee0f7: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 171 unfinished task(s).
+01:47:56.329 I [/f:186                          ] mdata: 5b09d84f: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 170 unfinished task(s).
+01:47:56.329 I [/f:186                          ] mdata: 8b63d2f7: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 169 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: 2d5b1ff4: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 168 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: edd28f91: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 167 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: 9c61b44f: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 166 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: 6ab5e2de: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 165 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: eb388c84: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 164 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: f440b3f3: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 163 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: e9082283: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 162 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: 97d73196: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 161 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: b39ade4f: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 160 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: f3556783: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 159 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: c5a1f492: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 158 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: cd9750bd: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 157 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: c7f27905: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 156 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: fd53a0ca: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 155 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: 62a8d840: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 154 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: 6911c329: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 153 unfinished task(s).
+01:47:56.330 I [/f:186                          ] mdata: 9f19b687: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 152 unfinished task(s).
+01:47:56.331 I [/f:186                          ] mdata: 645a3603: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 151 unfinished task(s).
+01:47:56.331 I [/f:186                          ] mdata: 1a9f17c8: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 150 unfinished task(s).
+01:47:56.331 I [/f:186                          ] mdata: f386388c: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 149 unfinished task(s).
+01:47:56.331 I [/f:186                          ] mdata: 6baeb3eb: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 148 unfinished task(s).
+01:47:56.331 I [/f:186                          ] mdata: 93c837f0: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 147 unfinished task(s).
+01:47:56.331 I [/f:186                          ] mdata: ac1ab043: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 146 unfinished task(s).
+01:47:56.331 I [/f:186                          ] mdata: 1fef613d: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 145 unfinished task(s).
+01:47:56.331 I [/f:186                          ] mdata: a844d171: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 144 unfinished task(s).
+01:47:56.331 I [/f:186                          ] mdata: acb0a59c: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 143 unfinished task(s).
+01:47:56.331 I [/f:186                          ] mdata: aa1492f9: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 142 unfinished task(s).
+01:47:56.331 I [/f:186                          ] mdata: cbd548bc: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 141 unfinished task(s).
+01:47:56.331 I [/f:186                          ] mdata: 684b5071: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 140 unfinished task(s).
+01:47:56.331 I [/f:186                          ] mdata: b85a9be1: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 139 unfinished task(s).
+01:47:56.331 I [/f:186                          ] mdata: 97e09bbd: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 138 unfinished task(s).
+01:47:56.331 I [/f:186                          ] mdata: cf909fb1: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 137 unfinished task(s).
+01:47:56.331 I [/f:186                          ] mdata: 5518b599: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 136 unfinished task(s).
+01:47:56.332 I [/f:186                          ] mdata: dbf8d913: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 135 unfinished task(s).
+01:47:56.332 I [/f:186                          ] mdata: 7992e70c: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 134 unfinished task(s).
+01:47:56.332 I [/f:186                          ] mdata: dd85a5a8: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 133 unfinished task(s).
+01:47:56.332 I [/f:186                          ] mdata: 6990c53f: Task from `legacy_track_info_provider` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 132 unfinished task(s).
+01:47:56.333 I [/f:186                          ] mdata: 4f30d378: Task from `recently_played` finished. 0/2 entity URIs requested/needed (100.0% cached). 0/2 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 131 unfinished task(s).
+01:47:56.334 I [/f:186                          ] mdata: d6c86ff2: Task from `recently_played` finished. 0/26 entity URIs requested/needed (100.0% cached). 0/26 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 130 unfinished task(s).
+01:47:56.372 I [/f:1008                         ] on response, playing: 1, session: 3ZEVeZ0lu2Dyg4aah45H4i, error: The operation completed successfully.
+01:47:56.521 I [/f:186                          ] mdata: 7a1490bd: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 129 unfinished task(s).
+01:47:56.545 I [/f:186                          ] mdata: f7114b31: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 129 unfinished task(s).
+01:47:56.545 I [/f:186                          ] mdata: 51027e5f: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (100.0% w/ ETags, 0.0% cached). 128 unfinished task(s).
+01:47:56.555 I [/f:186                          ] mdata: c6ce1b98: Task from `context_player` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 128 unfinished task(s).
+01:47:56.555 I [/f:186                          ] mdata: ab5e0b80: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 127 unfinished task(s).
+01:47:56.555 I [/f:186                          ] mdata: c88e6892: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 126 unfinished task(s).
+01:47:56.555 I [/f:186                          ] mdata: 98bd1453: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 125 unfinished task(s).
+01:47:56.555 I [/f:186                          ] mdata: 3213401b: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (100.0% w/ ETags, 0.0% cached). 124 unfinished task(s).
+01:47:56.555 I [/f:186                          ] mdata: d297f544: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 123 unfinished task(s).
+01:47:56.555 I [/f:186                          ] mdata: 71a2d02d: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 122 unfinished task(s).
+01:47:56.555 I [/f:186                          ] mdata: 9f0f72f: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 121 unfinished task(s).
+01:47:56.555 I [/f:186                          ] mdata: 59a4da4e: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 120 unfinished task(s).
+01:47:56.555 I [/f:186                          ] mdata: cf4df78a: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 119 unfinished task(s).
+01:47:56.556 I [/f:186                          ] mdata: d557cef2: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (100.0% w/ ETags, 0.0% cached). 118 unfinished task(s).
+01:47:56.556 I [/f:186                          ] mdata: f2f627f7: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 117 unfinished task(s).
+01:47:56.556 I [/f:186                          ] mdata: f80c7bc4: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 116 unfinished task(s).
+01:47:56.556 I [/f:186                          ] mdata: b1f22e0d: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 115 unfinished task(s).
+01:47:56.556 I [/f:186                          ] mdata: 5fa20ffd: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 114 unfinished task(s).
+01:47:56.556 I [/f:186                          ] mdata: ecfde4eb: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 113 unfinished task(s).
+01:47:56.589 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 167 ms
+01:47:56.589 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 167 ms
+01:47:56.590 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 167 ms
+01:47:56.590 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 167 ms
+01:47:56.590 I [/f:186                          ] mdata: 8287cc07: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 113 unfinished task(s).
+01:47:56.590 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 167 ms
+01:47:56.590 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 167 ms
+01:47:56.590 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 167 ms
+01:47:56.590 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 167 ms
+01:47:56.590 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 167 ms
+01:47:56.590 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 167 ms
+01:47:56.591 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 167 ms
+01:47:56.591 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 167 ms
+01:47:56.591 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 167 ms
+01:47:56.591 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 167 ms
+01:47:56.591 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 167 ms
+01:47:56.591 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 167 ms
+01:47:56.591 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 168 ms
+01:47:56.591 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 168 ms
+01:47:56.592 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 168 ms
+01:47:56.592 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 168 ms
+01:47:56.592 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 169 ms
+01:47:56.592 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 168 ms
+01:47:56.592 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 168 ms
+01:47:56.592 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 168 ms
+01:47:56.592 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 168 ms
+01:47:56.592 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 169 ms
+01:47:56.592 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 169 ms
+01:47:56.592 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 169 ms
+01:47:56.593 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 169 ms
+01:47:56.593 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 169 ms
+01:47:56.593 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 169 ms
+01:47:56.593 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 170 ms
+01:47:56.601 I [/f:186                          ] mdata: c95446f4: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 113 unfinished task(s).
+01:47:56.601 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 178 ms
+01:47:56.601 I [/f:186                          ] mdata: a684311: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 112 unfinished task(s).
+01:47:56.601 I [/f:186                          ] mdata: 1b02c8c7: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 111 unfinished task(s).
+01:47:56.602 I [/f:186                          ] mdata: e70b77c2: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 110 unfinished task(s).
+01:47:56.602 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 178 ms
+01:47:56.602 I [/f:186                          ] mdata: 238b75d3: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 109 unfinished task(s).
+01:47:56.602 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 178 ms
+01:47:56.602 I [/f:186                          ] mdata: c919eea9: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 108 unfinished task(s).
+01:47:56.602 I [/f:186                          ] mdata: c476af2e: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 107 unfinished task(s).
+01:47:56.602 I [/f:186                          ] mdata: a13e2d45: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (100.0% w/ ETags, 0.0% cached). 106 unfinished task(s).
+01:47:56.602 I [/f:186                          ] mdata: 76222108: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 105 unfinished task(s).
+01:47:56.602 I [/f:186                          ] mdata: b9c6f5ab: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (100.0% w/ ETags, 0.0% cached). 104 unfinished task(s).
+01:47:56.602 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 179 ms
+01:47:56.602 I [/f:186                          ] mdata: db331e24: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 103 unfinished task(s).
+01:47:56.602 I [/f:186                          ] mdata: d706f2ff: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 102 unfinished task(s).
+01:47:56.602 I [/f:186                          ] mdata: 46001f51: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 101 unfinished task(s).
+01:47:56.603 I [/f:186                          ] mdata: 1061c975: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 100 unfinished task(s).
+01:47:56.603 I [/f:186                          ] mdata: cefb9313: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 99 unfinished task(s).
+01:47:56.603 I [/f:186                          ] mdata: 4c1e6fdb: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 98 unfinished task(s).
+01:47:56.603 I [/f:186                          ] mdata: 1d95f842: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 97 unfinished task(s).
+01:47:56.603 I [/f:186                          ] mdata: 1802d817: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 96 unfinished task(s).
+01:47:56.603 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/net-fortune took 180 ms
+01:47:56.603 I [/f:186                          ] mdata: bc20dd18: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (100.0% w/ ETags, 0.0% cached). 95 unfinished task(s).
+01:47:56.603 I [/f:186                          ] mdata: b12a56b5: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 94 unfinished task(s).
+01:47:56.603 I [/f:186                          ] mdata: 3bc18776: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 93 unfinished task(s).
+01:47:56.603 I [/f:186                          ] mdata: 800a610: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 92 unfinished task(s).
+01:47:56.603 I [/f:186                          ] mdata: 144857a7: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 91 unfinished task(s).
+01:47:56.603 I [/f:186                          ] mdata: e0902b59: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 90 unfinished task(s).
+01:47:56.603 I [/f:186                          ] mdata: 8820dc78: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 89 unfinished task(s).
+01:47:56.604 I [/f:186                          ] mdata: d448d641: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 88 unfinished task(s).
+01:47:56.604 I [/f:186                          ] mdata: 7684c52b: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 87 unfinished task(s).
+01:47:56.604 I [/f:186                          ] mdata: a9d24340: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 86 unfinished task(s).
+01:47:56.614 I [/f:186                          ] mdata: a563655b: Task from `context_mdata` finished. 49/49 entity URIs requested/needed (0.0% cached). 49/49 extensions requested/needed (4.1% w/ ETags, 0.0% cached). 85 unfinished task(s).
+01:47:56.614 I [/f:186                          ] mdata: ca0bb78d: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 84 unfinished task(s).
+01:47:56.614 I [/f:186                          ] mdata: 6c5a3ee4: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 83 unfinished task(s).
+01:47:56.614 I [/f:186                          ] mdata: b0ce1b3e: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 82 unfinished task(s).
+01:47:56.615 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 192 ms
+01:47:56.615 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 192 ms
+01:47:56.615 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 192 ms
+01:47:56.615 I [/f:186                          ] mdata: 34a5fbc: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 81 unfinished task(s).
+01:47:56.615 I [/f:186                          ] mdata: 91755418: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 80 unfinished task(s).
+01:47:56.616 I [/f:186                          ] mdata: 64127e4c: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 79 unfinished task(s).
+01:47:56.616 I [/f:186                          ] mdata: 7bc1813d: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 78 unfinished task(s).
+01:47:56.616 I [/f:186                          ] mdata: f584fbb6: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 77 unfinished task(s).
+01:47:56.616 I [/f:186                          ] mdata: fe79b210: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (100.0% w/ ETags, 0.0% cached). 76 unfinished task(s).
+01:47:56.616 I [/f:186                          ] mdata: aaf4ae2f: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 75 unfinished task(s).
+01:47:56.626 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 203 ms
+01:47:56.627 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 204 ms
+01:47:56.627 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 204 ms
+01:47:56.627 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 204 ms
+01:47:56.628 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 204 ms
+01:47:56.628 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 204 ms
+01:47:56.628 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 204 ms
+01:47:56.628 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 204 ms
+01:47:56.628 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 204 ms
+01:47:56.628 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 204 ms
+01:47:56.628 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.628 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.628 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 206 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 205 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 206 ms
+01:47:56.629 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 206 ms
+01:47:56.630 I [/f:186                          ] mdata: 615e5c67: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 75 unfinished task(s).
+01:47:56.630 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 206 ms
+01:47:56.630 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 206 ms
+01:47:56.630 I [/f:186                          ] mdata: e6a85c73: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 74 unfinished task(s).
+01:47:56.630 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 207 ms
+01:47:56.630 I [/f:186                          ] mdata: 6fdeced7: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 73 unfinished task(s).
+01:47:56.630 I [/f:186                          ] mdata: f4313ee4: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 72 unfinished task(s).
+01:47:56.630 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 207 ms
+01:47:56.631 I [/f:186                          ] mdata: b48e3bdd: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 71 unfinished task(s).
+01:47:56.631 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 207 ms
+01:47:56.631 I [/f:186                          ] mdata: 2b1a97e2: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 70 unfinished task(s).
+01:47:56.631 I [/f:186                          ] mdata: c3ed6a07: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 69 unfinished task(s).
+01:47:56.631 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 207 ms
+01:47:56.631 I [/f:186                          ] mdata: be87c5d5: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 68 unfinished task(s).
+01:47:56.631 I [/f:186                          ] mdata: 4113fe51: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 67 unfinished task(s).
+01:47:56.632 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 207 ms
+01:47:56.632 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 208 ms
+01:47:56.632 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 208 ms
+01:47:56.632 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 208 ms
+01:47:56.632 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 208 ms
+01:47:56.632 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 208 ms
+01:47:56.632 I [/f:186                          ] mdata: f8dcf525: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (100.0% w/ ETags, 0.0% cached). 66 unfinished task(s).
+01:47:56.632 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 208 ms
+01:47:56.632 I [/f:186                          ] mdata: 29ae3a47: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 65 unfinished task(s).
+01:47:56.632 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 208 ms
+01:47:56.632 I [/f:186                          ] mdata: 12687da0: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 64 unfinished task(s).
+01:47:56.632 I [/f:186                          ] mdata: 4d878cc1: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 63 unfinished task(s).
+01:47:56.632 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 208 ms
+01:47:56.632 I [/f:186                          ] mdata: e5b2b4e: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 62 unfinished task(s).
+01:47:56.632 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 209 ms
+01:47:56.632 I [/f:186                          ] mdata: 70c35956: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 61 unfinished task(s).
+01:47:56.633 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 209 ms
+01:47:56.633 I [/f:186                          ] mdata: 153513a9: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 60 unfinished task(s).
+01:47:56.633 I [/f:186                          ] mdata: 20046286: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 59 unfinished task(s).
+01:47:56.633 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 209 ms
+01:47:56.633 I [/f:186                          ] mdata: be66f0f0: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 58 unfinished task(s).
+01:47:56.633 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 209 ms
+01:47:56.633 I [/f:186                          ] mdata: de9aa0c0: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 57 unfinished task(s).
+01:47:56.633 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 209 ms
+01:47:56.633 I [/f:186                          ] mdata: 13b95601: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (100.0% w/ ETags, 0.0% cached). 56 unfinished task(s).
+01:47:56.633 I [/f:186                          ] mdata: e8c3eb5: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 55 unfinished task(s).
+01:47:56.633 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 210 ms
+01:47:56.633 I [/f:186                          ] mdata: 8acd64ca: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 54 unfinished task(s).
+01:47:56.635 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 210 ms
+01:47:56.635 I [/f:186                          ] mdata: e24478d5: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 53 unfinished task(s).
+01:47:56.635 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 211 ms
+01:47:56.636 I [/f:186                          ] mdata: 31059ae7: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 52 unfinished task(s).
+01:47:56.636 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 212 ms
+01:47:56.636 I [/f:186                          ] mdata: 708dfb0b: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 51 unfinished task(s).
+01:47:56.636 I [/f:186                          ] mdata: a7cd33b: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 50 unfinished task(s).
+01:47:56.636 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 212 ms
+01:47:56.636 I [/f:186                          ] mdata: 87b784d0: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 49 unfinished task(s).
+01:47:56.636 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 212 ms
+01:47:56.636 I [/f:186                          ] mdata: 447a7f83: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 48 unfinished task(s).
+01:47:56.636 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 212 ms
+01:47:56.636 I [/f:186                          ] mdata: 2c9a74d0: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 47 unfinished task(s).
+01:47:56.636 I [/f:186                          ] mdata: d4adfe29: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 46 unfinished task(s).
+01:47:56.637 I [/f:186                          ] mdata: 8da1b273: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 45 unfinished task(s).
+01:47:56.637 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 213 ms
+01:47:56.637 I [/f:186                          ] mdata: a534415e: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 44 unfinished task(s).
+01:47:56.637 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 213 ms
+01:47:56.637 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 213 ms
+01:47:56.637 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 213 ms
+01:47:56.637 I [/f:186                          ] mdata: 2fe0ac1b: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 43 unfinished task(s).
+01:47:56.637 I [/f:186                          ] mdata: 7b9b16b5: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (100.0% w/ ETags, 0.0% cached). 42 unfinished task(s).
+01:47:56.637 I [/f:186                          ] mdata: 67a9c973: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 41 unfinished task(s).
+01:47:56.645 I [/f:186                          ] mdata: e2549446: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 41 unfinished task(s).
+01:47:56.645 I [/f:186                          ] mdata: d8e5ab57: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 40 unfinished task(s).
+01:47:56.645 I [/f:186                          ] mdata: 8916a8e7: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 39 unfinished task(s).
+01:47:56.646 I [/f:186                          ] mdata: 94bfb45d: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 38 unfinished task(s).
+01:47:56.646 I [/f:186                          ] mdata: f2fa71bc: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 37 unfinished task(s).
+01:47:56.646 I [/f:186                          ] mdata: c963d6fb: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 36 unfinished task(s).
+01:47:56.646 I [/f:186                          ] mdata: 6d07e6b9: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 35 unfinished task(s).
+01:47:56.646 I [/f:186                          ] mdata: 7e4abba8: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 34 unfinished task(s).
+01:47:56.646 I [/f:186                          ] mdata: 28d208c2: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 33 unfinished task(s).
+01:47:56.646 I [/f:186                          ] mdata: 8033b66e: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 32 unfinished task(s).
+01:47:56.646 I [/f:186                          ] mdata: 1828554: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 31 unfinished task(s).
+01:47:56.646 I [/f:186                          ] mdata: c0f5c9c0: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 30 unfinished task(s).
+01:47:56.646 I [/f:186                          ] mdata: 95ba5909: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 29 unfinished task(s).
+01:47:56.646 I [/f:186                          ] mdata: a3357871: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 28 unfinished task(s).
+01:47:56.646 I [/f:186                          ] mdata: 8725be1b: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 27 unfinished task(s).
+01:47:56.646 I [/f:186                          ] mdata: 5e880888: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 26 unfinished task(s).
+01:47:56.646 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 223 ms
+01:47:56.647 I [/f:186                          ] mdata: f6433968: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 25 unfinished task(s).
+01:47:56.647 I [/f:186                          ] mdata: 3f9b7dd7: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 24 unfinished task(s).
+01:47:56.647 I [/f:186                          ] mdata: d77a2aea: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 23 unfinished task(s).
+01:47:56.647 I [/f:186                          ] mdata: 58ae8d69: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 22 unfinished task(s).
+01:47:56.647 I [/f:186                          ] mdata: 879aae6b: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 21 unfinished task(s).
+01:47:56.647 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 224 ms
+01:47:56.647 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 224 ms
+01:47:56.647 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 224 ms
+01:47:56.647 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/extended-metadata took 224 ms
+01:47:56.647 I [/f:186                          ] mdata: 6d05a7d8: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (100.0% w/ ETags, 0.0% cached). 20 unfinished task(s).
+01:47:56.647 I [/f:186                          ] mdata: 52c36d3f: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (100.0% w/ ETags, 0.0% cached). 19 unfinished task(s).
+01:47:56.647 I [/f:186                          ] mdata: 511860e4: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 18 unfinished task(s).
+01:47:56.647 I [/f:186                          ] mdata: 91e48f0a: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 17 unfinished task(s).
+01:47:56.647 I [/f:186                          ] mdata: 412a9bc3: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 16 unfinished task(s).
+01:47:56.648 I [/f:186                          ] mdata: d50afc83: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 15 unfinished task(s).
+01:47:56.648 I [/f:186                          ] mdata: e9fa5b2d: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 14 unfinished task(s).
+01:47:56.648 I [/f:186                          ] mdata: aa8bf6cb: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 13 unfinished task(s).
+01:47:56.648 I [/f:186                          ] mdata: 56c72bdb: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 12 unfinished task(s).
+01:47:56.648 I [/f:186                          ] mdata: 5da1fb30: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 11 unfinished task(s).
+01:47:56.649 I [/f:186                          ] mdata: 9c8e8982: Task from `prefetch` finished. 49/49 entity URIs requested/needed (0.0% cached). 49/49 extensions requested/needed (8.2% w/ ETags, 0.0% cached). 10 unfinished task(s).
+01:47:56.650 I [/f:186                          ] mdata: 42becd24: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 9 unfinished task(s).
+01:47:56.651 I [/f:186                          ] mdata: ecef954a: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 8 unfinished task(s).
+01:47:56.651 I [/f:186                          ] mdata: f20ec: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (100.0% w/ ETags, 0.0% cached). 7 unfinished task(s).
+01:47:56.651 I [/f:186                          ] mdata: 1205837e: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 6 unfinished task(s).
+01:47:56.688 I [/f:186                          ] mdata: 236a1bec: Task from `prefetch` finished. 49/49 entity URIs requested/needed (0.0% cached). 49/49 extensions requested/needed (8.2% w/ ETags, 0.0% cached). 5 unfinished task(s).
+01:47:56.693 I [/f:186                          ] mdata: 7f423cb1: Task from `prefetch` finished. 49/49 entity URIs requested/needed (0.0% cached). 49/49 extensions requested/needed (8.2% w/ ETags, 0.0% cached). 4 unfinished task(s).
+01:47:56.697 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/playlist took 274 ms
+01:47:56.698 5 [/f:274                          ] [spotify:playlist:37i9dQZF1EQpj7X7UK8OOF] 'DIFF' request complete
+01:47:56.698 5 [/f:319                          ] Removed playlist attribute: LIST_PICTURE
+01:47:56.698 5 [/f:319                          ] Removed playlist attribute: LIST_PL3_VERSION
+01:47:56.698 5 [/f:319                          ] Removed playlist attribute: LIST_DELETED_BY_OWNER
+01:47:56.698 5 [/f:319                          ] Removed playlist attribute: LIST_CLIENT_ID
+01:47:56.698 5 [/f:183                          ] Add 50 tracks
+01:47:56.699 3 [/f:1199                         ] [spotify:playlist:37i9dQZF1EQpj7X7UK8OOF] Snapshot-updated to revision 1673330400,00000000633eb4a3ce22db3c9cb766086997cf0a
+01:47:56.700 I [/f:186                          ] mdata: d97776b0: Task from `prefetch` finished. 49/49 entity URIs requested/needed (0.0% cached). 49/49 extensions requested/needed (8.2% w/ ETags, 0.0% cached). 5 unfinished task(s).
+01:47:56.701 3 [/f:432                          ] [spotify:playlist:37i9dQZF1EQpj7X7UK8OOF] Synchronization starting: DIFF (from revision 1673330400,00000000633eb4a3ce22db3c9cb766086997cf0a) 
+01:47:56.704 I [/f:186                          ] mdata: ca6feeb: Task from `prefetch` finished. 49/49 entity URIs requested/needed (0.0% cached). 49/49 extensions requested/needed (8.2% w/ ETags, 0.0% cached). 4 unfinished task(s).
+01:47:56.707 I [/f:263                          ] Prefetch: looks like new context - resetting window size to 1
+01:47:56.707 I [/f:186                          ] mdata: 4695485e: Task from `prefetch` finished. 49/49 entity URIs requested/needed (0.0% cached). 49/49 extensions requested/needed (8.2% w/ ETags, 0.0% cached). 3 unfinished task(s).
+01:47:56.710 I [/f:186                          ] mdata: 78943bb2: Task from `prefetch` finished. 49/49 entity URIs requested/needed (0.0% cached). 49/49 extensions requested/needed (8.2% w/ ETags, 0.0% cached). 2 unfinished task(s).
+01:47:56.751 5 [/f:274                          ] [spotify:playlist:37i9dQZF1EQpj7X7UK8OOF] 'DIFF' request complete
+01:47:56.752 3 [/f:1112                         ] [spotify:playlist:37i9dQZF1EQpj7X7UK8OOF] Delta-updated to revision 1673330400,00000000633eb4a3ce22db3c9cb766086997cf0a (no new changes)
+01:47:56.755 I [/f:186                          ] mdata: 94a47a9b: Task from `playlist_tracks_loader` finished. 10/10 entity URIs requested/needed (0.0% cached). 10/10 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 1 unfinished task(s).
+01:47:56.772 I [/f:263                          ] Prefetch: looks like new context - resetting window size to 1
+01:47:56.777 I [/f:186                          ] mdata: 7d521e0c: Task from `playlist_tracks_loader` finished. 10/10 entity URIs requested/needed (0.0% cached). 10/10 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 26 unfinished task(s).
+01:47:56.787 I [/f:1008                         ] on response, playing: 1, session: 3ZEVeZ0lu2Dyg4aah45H4i, error: The operation completed successfully.
+01:47:56.817 I [/f:1008                         ] on response, playing: 1, session: 3ZEVeZ0lu2Dyg4aah45H4i, error: The operation completed successfully.
+01:47:56.875 I [/f:186                          ] mdata: 32788b74: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 25 unfinished task(s).
+01:47:56.897 I [/f:186                          ] mdata: 6d998f0c: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 25 unfinished task(s).
+01:47:56.897 I [/f:186                          ] mdata: 5f8f1e05: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 24 unfinished task(s).
+01:47:56.897 I [/f:186                          ] mdata: 5da7823: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 23 unfinished task(s).
+01:47:56.903 I [/f:186                          ] mdata: 308aefb2: Task from `context_mdata` finished. 19/19 entity URIs requested/needed (0.0% cached). 19/19 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 23 unfinished task(s).
+01:47:56.904 I [/f:186                          ] mdata: 66ba1d96: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 22 unfinished task(s).
+01:47:56.904 I [/f:186                          ] mdata: 6b18a739: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 21 unfinished task(s).
+01:47:56.904 I [/f:186                          ] mdata: e997cf9b: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 20 unfinished task(s).
+01:47:56.904 I [/f:186                          ] mdata: 12198103: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 19 unfinished task(s).
+01:47:56.904 I [/f:186                          ] mdata: 2f4fdb0d: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 18 unfinished task(s).
+01:47:56.904 I [/f:186                          ] mdata: adcfcdb0: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 17 unfinished task(s).
+01:47:56.904 I [/f:186                          ] mdata: 62b88766: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 16 unfinished task(s).
+01:47:56.904 I [/f:186                          ] mdata: 2814e202: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 15 unfinished task(s).
+01:47:56.904 I [/f:186                          ] mdata: d8e94ba6: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 14 unfinished task(s).
+01:47:56.904 I [/f:186                          ] mdata: 54523281: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 13 unfinished task(s).
+01:47:56.904 I [/f:186                          ] mdata: cef469a5: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 12 unfinished task(s).
+01:47:56.904 I [/f:186                          ] mdata: 129331a3: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 11 unfinished task(s).
+01:47:56.904 I [/f:186                          ] mdata: aca6ad91: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 10 unfinished task(s).
+01:47:56.905 I [/f:186                          ] mdata: b7a67c36: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 9 unfinished task(s).
+01:47:56.914 I [/f:186                          ] mdata: 9366c671: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 9 unfinished task(s).
+01:47:56.914 I [/f:186                          ] mdata: 4258ea73: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 8 unfinished task(s).
+01:47:56.914 I [/f:186                          ] mdata: d893695b: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 7 unfinished task(s).
+01:47:56.914 I [/f:186                          ] mdata: 82c3a605: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 6 unfinished task(s).
+01:47:56.914 I [/f:186                          ] mdata: 34f00547: Task from `prefetch` finished. 21/21 entity URIs requested/needed (0.0% cached). 21/21 extensions requested/needed (9.5% w/ ETags, 0.0% cached). 5 unfinished task(s).
+01:47:56.915 I [/f:186                          ] mdata: 441eadca: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 4 unfinished task(s).
+01:47:56.915 I [/f:263                          ] Prefetch: looks like new context - resetting window size to 1
+01:47:56.915 I [/f:186                          ] mdata: 5ac4342: Task from `prefetch` finished. 0/21 entity URIs requested/needed (100.0% cached). 0/21 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 3 unfinished task(s).
+01:47:56.915 I [/f:186                          ] mdata: 9bc74bb1: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 2 unfinished task(s).
+01:47:56.964 I [/f:186                          ] mdata: eaad5791: Task from `prefetch` finished. 21/21 entity URIs requested/needed (0.0% cached). 21/21 extensions requested/needed (9.5% w/ ETags, 0.0% cached). 1 unfinished task(s).
+01:47:56.965 I [/f:186                          ] mdata: ecc316d8: Task from `prefetch` finished. 21/21 entity URIs requested/needed (0.0% cached). 21/21 extensions requested/needed (9.5% w/ ETags, 0.0% cached). 0 unfinished task(s).
+01:47:59.711 I [/f:713                          ] Deleted 1 files from storage. Time spent: 0 ms. (files that was scheduled for delayed wipe)
+01:47:59.711 I [/f:715                          ]        1 in pl4 realm
+01:47:59.711 I [/f:2785                         ] Storage has been cleaned
+01:48:01.917 I [/f:203                          ] Prefetch: start prefetching track  spotify:track:5qbVkwfy0RYGFA6hAiIL90 : f56787ffdc5031461881757b392d4ee4afc4beb0
+01:48:01.964 I [/f:236                          ] Requesting data (0 -> 10485760)
+01:48:02.079 I [/f:33                           ] Prefetch: key prefetched for track: spotify:track:5qbVkwfy0RYGFA6hAiIL90 (file: f56787ffdc5031461881757b392d4ee4afc4beb0)
+01:48:02.873 I [/f:460                          ] High request latency: https://audio-fa.scdn.co/audio took 909 ms
+01:48:03.091 I [/f:1967                         ] Update! reason: cached-key-provided, flags: 0x00
+01:48:11.121 I [/f:186                          ] mdata: d4b899da: Task from `unknown` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 0 unfinished task(s).
+01:48:11.261 I [/f:2360                         ] Pruning unused resources
+01:48:11.261 I [/f:2515                         ] Offline manager prune stats:
+01:48:11.261 I [/f:2516                         ]     0 files locked in storage
+01:48:11.261 I [/f:2517                         ]     0 files unlocked in storage
+01:48:11.261 I [/f:2518                         ]     0 track keys in store
+01:48:11.261 I [/f:2519                         ]     0 episode keys in store
+01:48:11.261 I [/f:2521                         ]     0 track keys removed
+01:48:11.261 I [/f:2522                         ]     0 track keys moved to cache
+01:48:11.261 I [/f:2523                         ]     0 episode keys removed
+01:48:11.261 I [/f:2524                         ]     0 episode keys moved to cache
+01:48:11.261 I [/f:2525                         ]     0 keys removed from cache 
+01:48:11.261 I [/f:2526                         ]   229 keys left in cache
+01:48:14.261 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.978ms, total: 16.978ms.
+01:48:44.263 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.400ms, total: 33.378ms.
+01:48:51.358 I [/f:301                          ] Found 0 collection items out of 45 checked that need to be indexed (0ms).
+01:48:51.358 I [/f:303                          ] Completed a full check of the collection index.
+01:48:51.358 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:48:51.358 I [/f:303                          ] Completed a full check of the collection index.
+01:48:51.373 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:48:51.373 I [/f:303                          ] Completed a full check of the collection index.
+01:49:03.097 I [/f:1967                         ] Update! reason: periodic, flags: 0x00
+01:49:14.263 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.894ms, total: 50.272ms.
+01:49:44.256 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.513ms, total: 66.785ms.
+01:49:51.370 I [/f:301                          ] Found 0 collection items out of 45 checked that need to be indexed (0ms).
+01:49:51.370 I [/f:303                          ] Completed a full check of the collection index.
+01:49:51.370 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:49:51.370 I [/f:303                          ] Completed a full check of the collection index.
+01:49:51.385 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:49:51.385 I [/f:303                          ] Completed a full check of the collection index.
+01:50:03.103 I [/f:1967                         ] Update! reason: periodic, flags: 0x00
+01:50:14.260 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.983ms, total: 83.768ms.
+01:50:44.262 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.068ms, total: 99.836ms.
+01:50:51.354 I [/f:1008                         ] on response, playing: 1, session: 3ZEVeZ0lu2Dyg4aah45H4i, error: The operation completed successfully.
+01:50:51.354 I [/f:772                          ] Pause track (playback_id b65576820c33947290c14a41b95e2118)
+01:50:51.354 I [/f:970                          ] Pause driver (000000000E4E7E20)
+01:50:51.354 I [/f:468                          ] Playing music set to 'false'
+01:50:51.354 I [/f:192                          ] Scheduling emission of signal.
+01:50:51.354 I [/f:958                          ] on player state changed
+01:50:51.356 I [/f:958                          ] on player state changed
+01:50:51.365 I [/f:168                          ] Emitting signal.
+01:50:51.366 I [/connect:370                    ] Updated connection type from -1 to -1
+01:50:51.404 I [/f:301                          ] Found 0 collection items out of 45 checked that need to be indexed (0ms).
+01:50:51.404 I [/f:303                          ] Completed a full check of the collection index.
+01:50:51.404 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:50:51.404 I [/f:303                          ] Completed a full check of the collection index.
+01:50:51.404 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:50:51.404 I [/f:303                          ] Completed a full check of the collection index.
+01:51:03.114 I [/f:1967                         ] Update! reason: periodic, flags: 0x00
+01:51:14.253 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.925ms, total: 116.761ms.
+01:51:16.691 I [/f:346                          ] play, context uri: spotify:track:23j7dlNIalftynH6fNllR9, url: context://spotify:track:23j7dlNIalftynH6fNllR9
+01:51:16.691 I [/f:296                          ] == play command ==
+01:51:16.691 I [/f:298                          ] ctx: uri: spotify:track:23j7dlNIalftynH6fNllR9, url: context://spotify:track:23j7dlNIalftynH6fNllR9, hp: 0
+01:51:16.691 I [/f:315                          ] is system: 0
+01:51:16.691 I [/f:316                          ] is paused: 0
+01:51:16.711 I [/f:1008                         ] on response, playing: 1, session: 3ZEVeZ0lu2Dyg4aah45H4i, error: The operation completed successfully.
+01:51:16.711 I [/f:273                          ] advance()
+01:51:16.711 I [/f:673                          ] Close track (playback_id b65576820c33947290c14a41b95e2118)
+01:51:16.711 I [/f:674                          ]     source_end: unknown
+01:51:16.711 I [/f:675                          ]     reason_end: endplay
+01:51:16.711 I [/f:676                          ]     resumable_session: false
+01:51:16.712 I [/f:61                           ] Saved 1 log messages to 'C:\Users\Bruce\AppData\Roaming\Spotify\Users\saamba13-user\log-tracked'
+01:51:16.712 I [/f:1050                         ] play next track, close: endplay, start: playbtn
+01:51:16.713 I [/f:1096                         ] play pending track, close: endplay, start: playbtn, is error: 0
+01:51:16.713 I [/f:1029                         ] player->advance()
+01:51:16.713 I [/f:958                          ] on player state changed
+01:51:16.714 I [/f:263                          ] Prefetch: looks like new context - resetting window size to 1
+01:51:16.716 D [/connect_onboarding:261         ] Onboarding::evaluateOnboarding bailing, local=0, track=0, within=1
+01:51:16.717 I [/f:932                          ] player->advance()
+01:51:16.717 I [/f:932                          ] player->advance()
+01:51:16.717 I [/f:353                          ] New max active requests for job type 8: 1 (throttling at 250)
+01:51:16.717 I [/f:932                          ] player->advance()
+01:51:16.774 I [/f:932                          ] player->advance()
+01:51:44.254 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.867ms, total: 133.628ms.
+01:51:51.410 I [/f:301                          ] Found 0 collection items out of 45 checked that need to be indexed (0ms).
+01:51:51.410 I [/f:303                          ] Completed a full check of the collection index.
+01:51:51.410 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:51:51.410 I [/f:303                          ] Completed a full check of the collection index.
+01:51:51.410 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:51:51.410 I [/f:303                          ] Completed a full check of the collection index.
+01:52:03.126 I [/f:1967                         ] Update! reason: periodic, flags: 0x00
+01:52:14.254 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.927ms, total: 150.555ms.
+01:52:32.233 I [/f:346                          ] play, context uri: spotify:track:76jaknCZNc9azYjY3uvBwr, url: context://spotify:track:76jaknCZNc9azYjY3uvBwr
+01:52:32.233 I [/f:296                          ] == play command ==
+01:52:32.233 I [/f:298                          ] ctx: uri: spotify:track:76jaknCZNc9azYjY3uvBwr, url: context://spotify:track:76jaknCZNc9azYjY3uvBwr, hp: 0
+01:52:32.233 I [/f:315                          ] is system: 0
+01:52:32.233 I [/f:316                          ] is paused: 0
+01:52:32.241 I [/f:1008                         ] on response, playing: 1, session: 3EiYMVPBcWgN92t4DncIpr, error: The operation completed successfully.
+01:52:32.241 I [/f:1029                         ] player->advance()
+01:52:32.241 I [/f:958                          ] on player state changed
+01:52:32.244 D [/connect_onboarding:261         ] Onboarding::evaluateOnboarding bailing, local=0, track=0, within=1
+01:52:32.244 I [/f:932                          ] player->advance()
+01:52:32.244 I [/f:932                          ] player->advance()
+01:52:32.245 I [/f:932                          ] player->advance()
+01:52:32.387 I [/f:932                          ] player->advance()
+01:52:33.100 I [/f:346                          ] play, context uri: spotify:track:76jaknCZNc9azYjY3uvBwr, url: context://spotify:track:76jaknCZNc9azYjY3uvBwr
+01:52:33.100 I [/f:296                          ] == play command ==
+01:52:33.100 I [/f:298                          ] ctx: uri: spotify:track:76jaknCZNc9azYjY3uvBwr, url: context://spotify:track:76jaknCZNc9azYjY3uvBwr, hp: 0
+01:52:33.100 I [/f:315                          ] is system: 0
+01:52:33.100 I [/f:316                          ] is paused: 0
+01:52:33.108 I [/f:1008                         ] on response, playing: 1, session: 12Gi2juRnB4baIX7R9Q6gV, error: The operation completed successfully.
+01:52:33.108 I [/f:1029                         ] player->advance()
+01:52:33.108 I [/f:958                          ] on player state changed
+01:52:33.111 D [/connect_onboarding:261         ] Onboarding::evaluateOnboarding bailing, local=0, track=0, within=1
+01:52:33.111 I [/f:932                          ] player->advance()
+01:52:33.111 I [/f:932                          ] player->advance()
+01:52:33.111 I [/f:932                          ] player->advance()
+01:52:33.166 I [/f:932                          ] player->advance()
+01:52:34.393 I [/f:346                          ] play, context uri: spotify:track:0s291oxxOJznV6gX2UZVXz, url: context://spotify:track:0s291oxxOJznV6gX2UZVXz
+01:52:34.393 I [/f:296                          ] == play command ==
+01:52:34.393 I [/f:298                          ] ctx: uri: spotify:track:0s291oxxOJznV6gX2UZVXz, url: context://spotify:track:0s291oxxOJznV6gX2UZVXz, hp: 0
+01:52:34.393 I [/f:315                          ] is system: 0
+01:52:34.393 I [/f:316                          ] is paused: 0
+01:52:34.401 I [/f:1008                         ] on response, playing: 1, session: 0KNvGpjk6X0dZWXSzeEpjS, error: The operation completed successfully.
+01:52:34.401 I [/f:1029                         ] player->advance()
+01:52:34.401 I [/f:958                          ] on player state changed
+01:52:34.404 D [/connect_onboarding:261         ] Onboarding::evaluateOnboarding bailing, local=0, track=0, within=1
+01:52:34.404 I [/f:932                          ] player->advance()
+01:52:34.405 I [/f:932                          ] player->advance()
+01:52:34.405 I [/f:932                          ] player->advance()
+01:52:34.483 I [/f:932                          ] player->advance()
+01:52:44.264 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.956ms, total: 167.511ms.
+01:52:51.412 I [/f:301                          ] Found 0 collection items out of 45 checked that need to be indexed (0ms).
+01:52:51.412 I [/f:303                          ] Completed a full check of the collection index.
+01:52:51.412 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:52:51.412 I [/f:303                          ] Completed a full check of the collection index.
+01:52:51.412 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:52:51.412 I [/f:303                          ] Completed a full check of the collection index.
+01:53:03.128 I [/f:1967                         ] Update! reason: periodic, flags: 0x00
+01:53:14.255 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.927ms, total: 184.438ms.
+01:53:44.250 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.955ms, total: 201.393ms.
+01:53:51.418 I [/f:301                          ] Found 0 collection items out of 45 checked that need to be indexed (0ms).
+01:53:51.418 I [/f:303                          ] Completed a full check of the collection index.
+01:53:51.418 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:53:51.418 I [/f:303                          ] Completed a full check of the collection index.
+01:53:51.418 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:53:51.418 I [/f:303                          ] Completed a full check of the collection index.
+01:54:03.139 I [/f:1967                         ] Update! reason: periodic, flags: 0x00
+01:54:14.261 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.890ms, total: 218.283ms.
+01:54:32.078 I [/f:346                          ] play, context uri: spotify:track:0s291oxxOJznV6gX2UZVXz, url: context://spotify:track:0s291oxxOJznV6gX2UZVXz
+01:54:32.078 I [/f:296                          ] == play command ==
+01:54:32.078 I [/f:298                          ] ctx: uri: spotify:track:0s291oxxOJznV6gX2UZVXz, url: context://spotify:track:0s291oxxOJznV6gX2UZVXz, hp: 0
+01:54:32.078 I [/f:315                          ] is system: 0
+01:54:32.078 I [/f:316                          ] is paused: 0
+01:54:32.086 I [/f:1008                         ] on response, playing: 1, session: 1eVkAOKbFSpFWXkS8yortP, error: The operation completed successfully.
+01:54:32.086 I [/f:1029                         ] player->advance()
+01:54:32.086 I [/f:958                          ] on player state changed
+01:54:32.090 D [/connect_onboarding:261         ] Onboarding::evaluateOnboarding bailing, local=0, track=0, within=1
+01:54:32.090 I [/f:932                          ] player->advance()
+01:54:32.090 I [/f:932                          ] player->advance()
+01:54:32.090 I [/f:932                          ] player->advance()
+01:54:32.211 I [/f:932                          ] player->advance()
+01:54:44.255 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.887ms, total: 235.170ms.
+01:54:51.426 I [/f:301                          ] Found 0 collection items out of 45 checked that need to be indexed (0ms).
+01:54:51.426 I [/f:303                          ] Completed a full check of the collection index.
+01:54:51.426 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:54:51.426 I [/f:303                          ] Completed a full check of the collection index.
+01:54:51.426 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:54:51.426 I [/f:303                          ] Completed a full check of the collection index.
+01:55:03.141 I [/f:1967                         ] Update! reason: periodic, flags: 0x00
+01:55:14.251 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.898ms, total: 252.068ms.
+01:55:44.254 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.924ms, total: 268.992ms.
+01:55:51.432 I [/f:301                          ] Found 0 collection items out of 45 checked that need to be indexed (0ms).
+01:55:51.432 I [/f:303                          ] Completed a full check of the collection index.
+01:55:51.432 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:55:51.432 I [/f:303                          ] Completed a full check of the collection index.
+01:55:51.432 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:55:51.432 I [/f:303                          ] Completed a full check of the collection index.
+01:56:03.141 I [/f:1967                         ] Update! reason: periodic, flags: 0x00
+01:56:14.261 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.955ms, total: 285.947ms.
+01:56:44.258 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.890ms, total: 302.837ms.
+01:56:51.444 I [/f:301                          ] Found 0 collection items out of 45 checked that need to be indexed (0ms).
+01:56:51.444 I [/f:303                          ] Completed a full check of the collection index.
+01:56:51.444 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:56:51.444 I [/f:303                          ] Completed a full check of the collection index.
+01:56:51.444 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:56:51.444 I [/f:303                          ] Completed a full check of the collection index.
+01:57:03.156 I [/f:1967                         ] Update! reason: periodic, flags: 0x00
+01:57:14.262 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.949ms, total: 319.786ms.
+01:57:41.727 I [/f:186                          ] mdata: 1be9731e: Task from `unknown` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 0 unfinished task(s).
+01:57:44.263 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.955ms, total: 336.741ms.
+01:57:51.454 I [/f:301                          ] Found 0 collection items out of 45 checked that need to be indexed (0ms).
+01:57:51.454 I [/f:303                          ] Completed a full check of the collection index.
+01:57:51.454 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:57:51.454 I [/f:303                          ] Completed a full check of the collection index.
+01:57:51.454 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:57:51.454 I [/f:303                          ] Completed a full check of the collection index.
+01:57:58.706 5 [/f:168                          ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:playlist:0vY2BNr5H28bSrwInKTbIi)
+01:57:58.710 3 [/f:432                          ] [spotify:playlist:0vY2BNr5H28bSrwInKTbIi] Synchronization starting: DIFF (from revision 44,867f335f79ffe8a346428124e089a9990d0f2403) 
+01:57:58.713 I [/f:186                          ] mdata: 9c1557c5: Task from `playlist` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 3 unfinished task(s).
+01:57:58.713 I [/f:186                          ] mdata: 7c6772e7: Task from `playlist` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 3 unfinished task(s).
+01:57:58.818 I [/f:186                          ] mdata: 22e8345: Task from `playlist` finished. -1/-1 entity URIs requested/needed (-0.0% cached). -1/-1 extensions requested/needed (100.0% w/ ETags, -0.0% cached). 3 unfinished task(s).
+01:57:58.824 I [/f:186                          ] mdata: 5f17ebe1: Task from `legacy_track_info_provider` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 2 unfinished task(s).
+01:57:58.827 5 [/f:274                          ] [spotify:playlist:0vY2BNr5H28bSrwInKTbIi] 'DIFF' request complete
+01:57:58.828 3 [/f:1112                         ] [spotify:playlist:0vY2BNr5H28bSrwInKTbIi] Delta-updated to revision 44,867f335f79ffe8a346428124e089a9990d0f2403 (no new changes)
+01:57:58.834 I [/f:186                          ] mdata: 38d12dd7: Task from `playlist` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 1 unfinished task(s).
+01:57:58.871 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/popcount took 158 ms
+01:57:58.884 I [/f:460                          ] High request latency: https://spclient.wg.spotify.com/playlist-permission took 170 ms
+01:57:58.893 I [/f:186                          ] mdata: 70d8d045: Task from `playlist` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 1 unfinished task(s).
+01:57:59.031 I [/f:186                          ] mdata: d4cdac2b: Task from `playlist` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 1 unfinished task(s).
+01:57:59.034 I [/f:186                          ] mdata: f98a594d: Task from `playlist` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 2 unfinished task(s).
+01:57:59.122 I [/f:460                          ] High request latency: https://i.scdn.co/image took 151 ms
+01:57:59.125 I [/f:186                          ] mdata: 966cb061: Task from `playlist` finished. 32/32 entity URIs requested/needed (0.0% cached). 32/32 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 1 unfinished task(s).
+01:57:59.171 I [/f:186                          ] mdata: 51b1838b: Task from `playlist` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 1 unfinished task(s).
+01:57:59.255 I [/f:460                          ] High request latency: https://i.scdn.co/image took 152 ms
+01:58:01.832 I [/f:713                          ] Deleted 1 files from storage. Time spent: 0 ms. (files that was scheduled for delayed wipe)
+01:58:01.832 I [/f:715                          ]        1 in pl4 realm
+01:58:01.832 I [/f:2785                         ] Storage has been cleaned
+01:58:03.166 I [/f:1967                         ] Update! reason: periodic, flags: 0x00
+01:58:06.410 I [/f:186                          ] mdata: b89fb93a: Task from `playlist` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 1 unfinished task(s).
+01:58:06.459 I [/f:186                          ] mdata: f7aeb7d1: Task from `playlist` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 1 unfinished task(s).
+01:58:14.258 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.238ms, total: 352.979ms.
+01:58:44.260 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.054ms, total: 369.033ms.
+01:58:51.467 I [/f:301                          ] Found 0 collection items out of 45 checked that need to be indexed (0ms).
+01:58:51.467 I [/f:303                          ] Completed a full check of the collection index.
+01:58:51.467 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:58:51.467 I [/f:303                          ] Completed a full check of the collection index.
+01:58:51.467 I [/f:301                          ] Found 0 collection items out of 0 checked that need to be indexed (0ms).
+01:58:51.467 I [/f:303                          ] Completed a full check of the collection index.
+01:59:03.173 I [/f:1967                         ] Update! reason: periodic, flags: 0x00
+01:59:14.257 I [/f:205                          ] ConcurrentCollector ran mark cycle for 16.016ms, total: 385.049ms.
+01:59:34.239 I [/f:186                          ] mdata: 6aba53d0: Task from `playlist` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 1 unfinished task(s).
+01:59:34.347 I [/f:186                          ] mdata: 8d5b24e3: Task from `playlist` finished. 0/1 entity URIs requested/needed (100.0% cached). 0/1 extensions requested/needed (0.0% w/ ETags, 100.0% cached). 1 unfinished task(s).
+01:59:35.309 I [/f:186                          ] mdata: 4735add8: Task from `playlist` finished. 1/1 entity URIs requested/needed (0.0% cached). 1/1 extensions requested/needed (0.0% w/ ETags, 0.0% cached). 0 unfinished task(s).
+01:59:35.309 I [/f:1520                         ] No product state was retrieved, unable to update
+01:59:35.309 I [/f:2931                         ] == Offline Report ==
+01:59:35.309 I [/f:2932                         ] change_reason: shutdown-report
+01:59:35.309 I [/f:2933                         ] num_downloaded_tracks: 0
+01:59:35.309 I [/f:2934                         ] total_num_tracks: 0
+01:59:35.309 I [/f:2935                         ] num_downloaded_episodes: 0
+01:59:35.309 I [/f:2936                         ] total_num_episodes: 0
+01:59:35.309 I [/f:2937                         ] track_limit: 0
+01:59:35.309 I [/f:2938                         ] track_expiry: 2592000
+01:59:35.309 I [/f:2939                         ] episode_limit: 0
+01:59:35.309 I [/f:2940                         ] episode_expiry: 2592000
+01:59:35.309 I [/f:2941                         ] offline_keys: 0
+01:59:35.309 I [/f:2942                         ] cached_keys: 229
+01:59:35.309 I [/f:2943                         ] total_num_links: 0
+01:59:35.309 I [/f:2950                         ] ====================
+01:59:35.316 I [/f:1008                         ] on response, playing: 1, session: 4nYkJPVyJEgsJg1WScNAUC, error: The operation completed successfully.
+01:59:35.316 I [/f:1017                         ] player->stop()
+01:59:35.316 I [/f:1029                         ] player->advance()
+01:59:35.339 D [/connect_tier1:163              ] Tier1LocalVerificationListener::startAccept: error: The I/O operation has been aborted because of either a thread exit or an application request.
+01:59:35.339 E [/connect_mdns:323               ] Error 'The I/O operation has been aborted because of either a thread exit or an application request.' while receiving from 0.0.0.0
+01:59:35.339 D [/connect_dial:154               ] DIAL read unicast failure: ec = 995, msg = 'The I/O operation has been aborted because of either a thread exit or an application request.', sender = 0.0.0.0, bytes transferred = 0
+01:59:35.339 D [/connect_dial:154               ] DIAL read multicast failure: ec = 995, msg = 'The I/O operation has been aborted because of either a thread exit or an application request.', sender = 192.168.1.3, bytes transferred = 0
+01:59:35.339 D [/connect_mdns:153               ] mDNS read failure: ec = 995, msg = 'The I/O operation has been aborted because of either a thread exit or an application request.', sender = 0.0.0.0, bytes transferred = 0
+01:59:35.339 D [/connect_dial:154               ] DIAL read unicast failure: ec = 995, msg = 'The I/O operation has been aborted because of either a thread exit or an application request.', sender = 0.0.0.0, bytes transferred = 0
+01:59:35.339 E [/connect_mdns:323               ] Error 'The I/O operation has been aborted because of either a thread exit or an application request.' while receiving from fe80::413b:ba6a:5eb:1c00%10
+01:59:35.339 D [/connect_dial:154               ] DIAL read multicast failure: ec = 995, msg = 'The I/O operation has been aborted because of either a thread exit or an application request.', sender = 10.5.0.2, bytes transferred = 0
+01:59:35.339 D [/connect_mdns:153               ] mDNS read failure: ec = 995, msg = 'The I/O operation has been aborted because of either a thread exit or an application request.', sender = fe80::413b:ba6a:5eb:1c00%10, bytes transferred = 0
+01:59:35.339 W [/connect_network:412            ] Socket with outbound interface 192.168.1.3 not found and not deleted
+01:59:35.339 E [/connect_mdns:323               ] Error 'The I/O operation has been aborted because of either a thread exit or an application request.' while receiving from 0.0.0.0
+01:59:35.339 W [/connect_network:412            ] Socket with outbound interface 192.168.1.3 not found and not deleted
+01:59:35.339 D [/connect_mdns:153               ] mDNS read failure: ec = 995, msg = 'The I/O operation has been aborted because of either a thread exit or an application request.', sender = 0.0.0.0, bytes transferred = 0
+01:59:35.339 W [/connect_network:412            ] Socket with outbound interface 10.5.0.2 not found and not deleted
+01:59:35.339 E [/connect_mdns:323               ] Error 'The I/O operation has been aborted because of either a thread exit or an application request.' while receiving from 10.5.0.2
+01:59:35.339 W [/connect_network:412            ] Socket with outbound interface 10.5.0.2 not found and not deleted
+01:59:35.339 D [/connect_mdns:153               ] mDNS read failure: ec = 995, msg = 'The I/O operation has been aborted because of either a thread exit or an application request.', sender = 10.5.0.2, bytes transferred = 0
+01:59:35.339 W [/connect_network:412            ] Socket with outbound interface fe80::605f:7a58:2e17:15e5%20 not found and not deleted
+01:59:35.339 W [/connect_network:412            ] Socket with outbound interface fe80::413b:ba6a:5eb:1c00%10 not found and not deleted
+01:59:35.339 W [/connect_network:412            ] Socket with outbound interface 192.168.1.3 not found and not deleted
+01:59:35.339 W [/connect_network:412            ] Socket with outbound interface 10.5.0.2 not found and not deleted
+01:59:35.340 D [/connect_network:208            ] WoL: Mark timer as being shutdown
+01:59:35.342 I [/f:123                          ] Logger currently has no transport!
+01:59:35.342 I [/f:123                          ] Logger currently has no transport!
